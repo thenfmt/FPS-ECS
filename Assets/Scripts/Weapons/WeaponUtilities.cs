@@ -112,7 +112,7 @@ public static class WeaponUtilities
             float hitDistance = weapon.Range;
             if (hitFound)
             {
-                hitDistance = closestValidHit.Fraction * weapon.Range;
+                hitDistance = closestValidHit.Fraction * weapon.Damage;
                 hitFound = true;
             }
     
