@@ -1,0 +1,4088 @@
+fileFormatVersion: 2
+guid: 57b0fbe16dccc7e42a73d8ed6918b488
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Barrel_A_LP
+  - first:
+      1: 100002
+    second: Barrel_B_LP
+  - first:
+      1: 100004
+    second: Barrels_Base_A_LP
+  - first:
+      1: 100006
+    second: Barrels_Base_B_LP
+  - first:
+      1: 100008
+    second: Barrels_Base_C_LP
+  - first:
+      1: 100010
+    second: Barrels_Base_D_LP
+  - first:
+      1: 100012
+    second: Barrels_Base_E_LP
+  - first:
+      1: 100014
+    second: Body_A_LP
+  - first:
+      1: 100016
+    second: Body_B_LP
+  - first:
+      1: 100018
+    second: Body_C_LP
+  - first:
+      1: 100020
+    second: Body_D_LP
+  - first:
+      1: 100022
+    second: Brackets_A_LP
+  - first:
+      1: 100024
+    second: Camera
+  - first:
+      1: 100026
+    second: Chest
+  - first:
+      1: 100028
+    second: Cylinder002
+  - first:
+      1: 100030
+    second: Cylinder003
+  - first:
+      1: 100032
+    second: Cylinder004
+  - first:
+      1: 100034
+    second: Cylinder006
+  - first:
+      1: 100036
+    second: Details_A_LP
+  - first:
+      1: 100038
+    second: Foot_Accordion
+  - first:
+      1: 100040
+    second: Foot_Accordion001
+  - first:
+      1: 100042
+    second: Geometry
+  - first:
+      1: 100044
+    second: Grenade_Launcher_Attachment_A_LP
+  - first:
+      1: 100046
+    second: Grenade_Launcher_Back_A_LP
+  - first:
+      1: 100048
+    second: Grenade_Launcher_Back_B_LP
+  - first:
+      1: 100050
+    second: Grenade_Launcher_Back_C_LP
+  - first:
+      1: 100052
+    second: Grenade_Launcher_Drum_A_LP
+  - first:
+      1: 100054
+    second: Grenade_Launcher_Front_A_LP
+  - first:
+      1: 100056
+    second: Grills_A_LP
+  - first:
+      1: 100058
+    second: Head
+  - first:
+      1: 100060
+    second: Head_End
+  - first:
+      1: 100062
+    second: Hips
+  - first:
+      1: 100064
+    second: Key_A_LP
+  - first:
+      1: 100066
+    second: Left_Foot
+  - first:
+      1: 100068
+    second: Left_Foot_Inner
+  - first:
+      1: 100070
+    second: Left_Foot_Outer
+  - first:
+      1: 100072
+    second: Left_Hand
+  - first:
+      1: 100074
+    second: Left_Hand_Attach
+  - first:
+      1: 100076
+    second: Left_Hand_End
+  - first:
+      1: 100078
+    second: Left_Heel
+  - first:
+      1: 100080
+    second: Left_IndexDistal
+  - first:
+      1: 100082
+    second: Left_IndexDistalEnd
+  - first:
+      1: 100084
+    second: Left_IndexIntermediate
+  - first:
+      1: 100086
+    second: Left_IndexProximal
+  - first:
+      1: 100088
+    second: Left_LowerArm
+  - first:
+      1: 100090
+    second: Left_LowerLeg
+  - first:
+      1: 100092
+    second: Left_MiddleDistal
+  - first:
+      1: 100094
+    second: Left_MiddleDistalEnd
+  - first:
+      1: 100096
+    second: Left_MiddleIntermediate
+  - first:
+      1: 100098
+    second: Left_MiddleProximal
+  - first:
+      1: 100100
+    second: Left_Offhand_IK
+  - first:
+      1: 100102
+    second: Left_RingDistal
+  - first:
+      1: 100104
+    second: Left_RingDistalEnd
+  - first:
+      1: 100106
+    second: Left_RingIntermediate
+  - first:
+      1: 100108
+    second: Left_RingProximal
+  - first:
+      1: 100110
+    second: Left_Shoulder
+  - first:
+      1: 100112
+    second: Left_ThumbDistal
+  - first:
+      1: 100114
+    second: Left_ThumbDistalEnd
+  - first:
+      1: 100116
+    second: Left_ThumbIntermediate
+  - first:
+      1: 100118
+    second: Left_ThumbProximal
+  - first:
+      1: 100120
+    second: Left_Toes
+  - first:
+      1: 100122
+    second: Left_ToesEnd
+  - first:
+      1: 100124
+    second: Left_UpperArm
+  - first:
+      1: 100126
+    second: Left_UpperLeg
+  - first:
+      1: 100128
+    second: MIRROR
+  - first:
+      1: 100130
+    second: Neck
+  - first:
+      1: 100132
+    second: Neck_Twist_A
+  - first:
+      1: 100134
+    second: Nuts_Bolts_A_LP
+  - first:
+      1: 100136
+    second: Object
+  - first:
+      1: 100138
+    second: Object006
+  - first:
+      1: 100140
+    second: Object007
+  - first:
+      1: 100142
+    second: Object012
+  - first:
+      1: 100144
+    second: Object013
+  - first:
+      1: 100146
+    second: Object015
+  - first:
+      1: 100148
+    second: Object016
+  - first:
+      1: 100150
+    second: Object017
+  - first:
+      1: 100152
+    second: Object018
+  - first:
+      1: 100154
+    second: Object019
+  - first:
+      1: 100156
+    second: Object020
+  - first:
+      1: 100158
+    second: Object021
+  - first:
+      1: 100160
+    second: Object022
+  - first:
+      1: 100162
+    second: Object023
+  - first:
+      1: 100164
+    second: Object024
+  - first:
+      1: 100166
+    second: Object025
+  - first:
+      1: 100168
+    second: Object026
+  - first:
+      1: 100170
+    second: Object027
+  - first:
+      1: 100172
+    second: Oil_Reader_A_LP
+  - first:
+      1: 100174
+    second: Right_Foot
+  - first:
+      1: 100176
+    second: Right_Foot_Inner
+  - first:
+      1: 100178
+    second: Right_Foot_Outer
+  - first:
+      1: 100180
+    second: Right_Hand
+  - first:
+      1: 100182
+    second: Right_Hand_Attach
+  - first:
+      1: 100184
+    second: Right_Heel
+  - first:
+      1: 100186
+    second: Right_LowerArm
+  - first:
+      1: 100188
+    second: Right_LowerLeg
+  - first:
+      1: 100190
+    second: Right_Offhand_IK
+  - first:
+      1: 100192
+    second: Right_Shoulder
+  - first:
+      1: 100194
+    second: Right_Toes
+  - first:
+      1: 100196
+    second: Right_ToesEnd
+  - first:
+      1: 100198
+    second: Right_UpperArm
+  - first:
+      1: 100200
+    second: Right_UpperLeg
+  - first:
+      1: 100202
+    second: //RootNode
+  - first:
+      1: 100204
+    second: Robot_ArmLower_Left_A001
+  - first:
+      1: 100206
+    second: Robot_ArmUpper_Left_A002
+  - first:
+      1: 100208
+    second: Robot_ArmUpper_Left_A003
+  - first:
+      1: 100210
+    second: Robot_Ear_Left001
+  - first:
+      1: 100212
+    second: Robot_Ear_Right001
+  - first:
+      1: 100214
+    second: Robot_Engine_A
+  - first:
+      1: 100216
+    second: Robot_Engine_Cog_A
+  - first:
+      1: 100218
+    second: Robot_Engine_Piston_D
+  - first:
+      1: 100220
+    second: Robot_Engine_Piston_E
+  - first:
+      1: 100222
+    second: Robot_Engine_Piston_F
+  - first:
+      1: 100224
+    second: Robot_Engine_Tubes_A
+  - first:
+      1: 100226
+    second: Robot_Exhausts_A
+  - first:
+      1: 100228
+    second: Robot_Foot_Left
+  - first:
+      1: 100230
+    second: Robot_Foot_Left001
+  - first:
+      1: 100232
+    second: Robot_FootFront_Right001
+  - first:
+      1: 100234
+    second: Robot_FootFront_Right002
+  - first:
+      1: 100236
+    second: Robot_Hand_Left_A001
+  - first:
+      1: 100238
+    second: Robot_Hand_Left_Balljoint_A001
+  - first:
+      1: 100240
+    second: Robot_Hand_Left_Balljoint_B001
+  - first:
+      1: 100242
+    second: Robot_Hand_Left_Finger_A004
+  - first:
+      1: 100244
+    second: Robot_Hand_Left_Finger_A005
+  - first:
+      1: 100246
+    second: Robot_Hand_Left_Finger_A006
+  - first:
+      1: 100248
+    second: Robot_Hand_Left_Finger_B004
+  - first:
+      1: 100250
+    second: Robot_Hand_Left_Finger_B005
+  - first:
+      1: 100252
+    second: Robot_Hand_Left_Finger_B006
+  - first:
+      1: 100254
+    second: Robot_Hand_Left_Finger_C004
+  - first:
+      1: 100256
+    second: Robot_Hand_Left_Finger_C005
+  - first:
+      1: 100258
+    second: Robot_Hand_Left_Finger_C006
+  - first:
+      1: 100260
+    second: Robot_Hand_Left_Shield_A
+  - first:
+      1: 100262
+    second: Robot_Hand_Left_Thumb_A004
+  - first:
+      1: 100264
+    second: Robot_Hand_Left_Thumb_A005
+  - first:
+      1: 100266
+    second: Robot_Hand_Left_Thumb_A006
+  - first:
+      1: 100268
+    second: Robot_Head_A002
+  - first:
+      1: 100270
+    second: Robot_Jaw_A001
+  - first:
+      1: 100272
+    second: Robot_Pelvis_A
+  - first:
+      1: 100274
+    second: Robot_Shield_Back_A001
+  - first:
+      1: 100276
+    second: Robot_Shield_Chest_A001
+  - first:
+      1: 100278
+    second: Robot_Shield_Left_A001
+  - first:
+      1: 100280
+    second: Robot_Shield_Neck_A001
+  - first:
+      1: 100282
+    second: Robot_Upper_Body_A
+  - first:
+      1: 100284
+    second: Side_Handle_A_LP
+  - first:
+      1: 100286
+    second: Skeleton
+  - first:
+      1: 100288
+    second: Sphere001
+  - first:
+      1: 100290
+    second: Sphere005
+  - first:
+      1: 100292
+    second: Sphere006
+  - first:
+      1: 100294
+    second: Sphere007
+  - first:
+      1: 100296
+    second: Spine
+  - first:
+      1: 100298
+    second: Top_Handle_A_LP
+  - first:
+      1: 100300
+    second: UpperChest
+  - first:
+      1: 100302
+    second: Engine_Pipe_Base
+  - first:
+      1: 100304
+    second: Enging_Block
+  - first:
+      1: 100306
+    second: Left_Engine_Pipe
+  - first:
+      1: 100308
+    second: Left_Engine_Pipe1
+  - first:
+      1: 100310
+    second: Left_LowerArm_Attach
+  - first:
+      1: 100312
+    second: Left_Tube_A_End
+  - first:
+      1: 100314
+    second: Left_Tube_A_Mid
+  - first:
+      1: 100316
+    second: Left_Tube_A_Start
+  - first:
+      1: 100318
+    second: Left_Tube_B_End
+  - first:
+      1: 100320
+    second: Left_Tube_B_Mid
+  - first:
+      1: 100322
+    second: Left_Tube_B_Start
+  - first:
+      1: 100324
+    second: Left_Tube_C_End
+  - first:
+      1: 100326
+    second: Left_Tube_C_Mid
+  - first:
+      1: 100328
+    second: Left_Tube_C_Start
+  - first:
+      1: 100330
+    second: Left_UpperArm_Shield
+  - first:
+      1: 100332
+    second: Right_Engine_Pipe
+  - first:
+      1: 100334
+    second: Right_Engine_Pipe1
+  - first:
+      1: 100336
+    second: Right_Hand_End
+  - first:
+      1: 100338
+    second: Right_IndexDistal
+  - first:
+      1: 100340
+    second: Right_IndexDistalEnd
+  - first:
+      1: 100342
+    second: Right_IndexIntermediate
+  - first:
+      1: 100344
+    second: Right_IndexProximal
+  - first:
+      1: 100346
+    second: Right_LowerArm_Attach
+  - first:
+      1: 100348
+    second: Right_MiddleDistal
+  - first:
+      1: 100350
+    second: Right_MiddleDistalEnd
+  - first:
+      1: 100352
+    second: Right_MiddleIntermediate
+  - first:
+      1: 100354
+    second: Right_MiddleProximal
+  - first:
+      1: 100356
+    second: Right_RingDistal
+  - first:
+      1: 100358
+    second: Right_RingDistalEnd
+  - first:
+      1: 100360
+    second: Right_RingIntermediate
+  - first:
+      1: 100362
+    second: Right_RingProximal
+  - first:
+      1: 100364
+    second: Right_ThumbDistal
+  - first:
+      1: 100366
+    second: Right_ThumbDistalEnd
+  - first:
+      1: 100368
+    second: Right_ThumbIntermediate
+  - first:
+      1: 100370
+    second: Right_ThumbProximal
+  - first:
+      1: 100372
+    second: Right_Tube_A_End
+  - first:
+      1: 100374
+    second: Right_Tube_A_Mid
+  - first:
+      1: 100376
+    second: Right_Tube_A_Start
+  - first:
+      1: 100378
+    second: Right_Tube_B_End
+  - first:
+      1: 100380
+    second: Right_Tube_B_Mid
+  - first:
+      1: 100382
+    second: Right_Tube_B_Start
+  - first:
+      1: 100384
+    second: Right_Tube_C_End
+  - first:
+      1: 100386
+    second: Right_Tube_C_Mid
+  - first:
+      1: 100388
+    second: Right_Tube_C_Start
+  - first:
+      1: 100390
+    second: Body
+  - first:
+      1: 100392
+    second: Left_Arm
+  - first:
+      1: 100394
+    second: polySurface10
+  - first:
+      1: 100396
+    second: polySurface11
+  - first:
+      1: 100398
+    second: polySurface12
+  - first:
+      1: 100400
+    second: polySurface7
+  - first:
+      1: 100402
+    second: polySurface8
+  - first:
+      1: 100404
+    second: polySurface9
+  - first:
+      1: 100406
+    second: Sphere010
+  - first:
+      1: 100408
+    second: Back_Chest_Plate
+  - first:
+      1: 100410
+    second: Engine_Piston_Left_Low
+  - first:
+      1: 100412
+    second: Engine_Piston_Left_Mid
+  - first:
+      1: 100414
+    second: Engine_Piston_Left_Up
+  - first:
+      1: 100416
+    second: Engine_Piston_Right_Low
+  - first:
+      1: 100418
+    second: Engine_Piston_Right_Mid
+  - first:
+      1: 100420
+    second: Engine_Piston_Right_Up
+  - first:
+      1: 100422
+    second: Front_Chest_Plate_Low
+  - first:
+      1: 100424
+    second: Front_Chest_Plate_Up
+  - first:
+      1: 100426
+    second: Hips_Offset
+  - first:
+      1: 100428
+    second: Hips_Offset_Inner
+  - first:
+      1: 100430
+    second: Jaw
+  - first:
+      1: 100432
+    second: joint2
+  - first:
+      1: 100434
+    second: joint2 1
+  - first:
+      1: 100436
+    second: Left_Chest_Plate
+  - first:
+      1: 100438
+    second: Left_Engine_Pipe_Exhaust
+  - first:
+      1: 100440
+    second: Left_Foot_Offset
+  - first:
+      1: 100442
+    second: Left_LowerArm_Offset
+  - first:
+      1: 100444
+    second: Left_LowerLeg_Offset
+  - first:
+      1: 100446
+    second: Left_Toes_Offset
+  - first:
+      1: 100448
+    second: Left_UpperArm_Offset
+  - first:
+      1: 100450
+    second: Left_UpperArm_Shoulder_Plate
+  - first:
+      1: 100452
+    second: Left_UpperLeg_Back_Plate
+  - first:
+      1: 100454
+    second: Left_UpperLeg_Front_Plate
+  - first:
+      1: 100456
+    second: Left_UpperLeg_Offset
+  - first:
+      1: 100458
+    second: Left_UpperLeg_Top_Plate
+  - first:
+      1: 100460
+    second: Right_Chest_Plate
+  - first:
+      1: 100462
+    second: Right_Engine_Pipe_Exhaust
+  - first:
+      1: 100464
+    second: Right_Foot_Offset
+  - first:
+      1: 100466
+    second: Right_LowerArm_Offset
+  - first:
+      1: 100468
+    second: Right_LowerLeg_Offset
+  - first:
+      1: 100470
+    second: Right_Toes_Offset
+  - first:
+      1: 100472
+    second: Right_UpperArm_Offset
+  - first:
+      1: 100474
+    second: Right_UpperArm_Shoulder_Plate
+  - first:
+      1: 100476
+    second: Right_UpperLeg_Back_Plate
+  - first:
+      1: 100478
+    second: Right_UpperLeg_Front_Plate
+  - first:
+      1: 100480
+    second: Right_UpperLeg_Offset
+  - first:
+      1: 100482
+    second: Right_UpperLeg_Top_Plate
+  - first:
+      1: 100484
+    second: Up_Chest_Plate
+  - first:
+      1: 100486
+    second: UpperChest_Offset
+  - first:
+      1: 100488
+    second: Foot_Accordion_Left
+  - first:
+      1: 100490
+    second: Foot_Accordion_Right
+  - first:
+      1: 100492
+    second: Left_Engine_Fan_Low
+  - first:
+      1: 100494
+    second: Left_Engine_Fan_Mid
+  - first:
+      1: 100496
+    second: Left_Engine_Fan_Up
+  - first:
+      1: 100498
+    second: Left_Engine_Pipe_Exhaust_End
+  - first:
+      1: 100500
+    second: Left_Hand_Plate
+  - first:
+      1: 100502
+    second: Right_Engine_Fan_Low
+  - first:
+      1: 100504
+    second: Right_Engine_Fan_Mid
+  - first:
+      1: 100506
+    second: Right_Engine_Fan_Up
+  - first:
+      1: 100508
+    second: Right_Engine_Pipe_Exhaust_End
+  - first:
+      1: 100510
+    second: Right_Hand_Plate
+  - first:
+      1: 100512
+    second: Right_UpperArm_Shield
+  - first:
+      1: 100514
+    second: Robot_A_Clavicle_Left
+  - first:
+      1: 100516
+    second: Robot_A_Clavicle_Right
+  - first:
+      1: 100518
+    second: Robot_A_Engine
+  - first:
+      1: 100520
+    second: Robot_A_Engine_Cog
+  - first:
+      1: 100522
+    second: Robot_A_Engine_Piston_A
+  - first:
+      1: 100524
+    second: Robot_A_Engine_Piston_B
+  - first:
+      1: 100526
+    second: Robot_A_Engine_Piston_C
+  - first:
+      1: 100528
+    second: Robot_A_Engine_Piston_D
+  - first:
+      1: 100530
+    second: Robot_A_Engine_Piston_E
+  - first:
+      1: 100532
+    second: Robot_A_Engine_Piston_F
+  - first:
+      1: 100534
+    second: Robot_A_Engine_Tubes
+  - first:
+      1: 100536
+    second: Robot_A_Exhausts
+  - first:
+      1: 100538
+    second: Robot_A_Foot_Left
+  - first:
+      1: 100540
+    second: Robot_A_Foot_Left1
+  - first:
+      1: 100542
+    second: Robot_A_FootFront_Left
+  - first:
+      1: 100544
+    second: Robot_A_FootFront_Right
+  - first:
+      1: 100546
+    second: Robot_A_Hand_Left1
+  - first:
+      1: 100548
+    second: Robot_A_Hand_Middle_A_Left1
+  - first:
+      1: 100550
+    second: Robot_A_Hand_Middle_B_Left1
+  - first:
+      1: 100552
+    second: Robot_A_Hand_Middle_C_Left1
+  - first:
+      1: 100554
+    second: Robot_A_Hand_Pinky_A_Left2
+  - first:
+      1: 100556
+    second: Robot_A_Hand_Pinky_B_Left2
+  - first:
+      1: 100558
+    second: Robot_A_Hand_Pinky_C_Left2
+  - first:
+      1: 100560
+    second: Robot_A_Hand_Pinky_Metacarpal_Left2
+  - first:
+      1: 100562
+    second: Robot_A_Hand_Right_Metacarpal_Left
+  - first:
+      1: 100564
+    second: Robot_A_Hand_Ring_A_Left
+  - first:
+      1: 100566
+    second: Robot_A_Hand_Ring_B_Left
+  - first:
+      1: 100568
+    second: Robot_A_Hand_Ring_C_Left
+  - first:
+      1: 100570
+    second: Robot_A_Hand_Shield_Left1
+  - first:
+      1: 100572
+    second: Robot_A_Hand_Thumb_A_Left1
+  - first:
+      1: 100574
+    second: Robot_A_Hand_Thumb_B_Left1
+  - first:
+      1: 100576
+    second: Robot_A_Hand_Thumb_C_Left1
+  - first:
+      1: 100578
+    second: Robot_A_Head
+  - first:
+      1: 100580
+    second: Robot_A_Jaw
+  - first:
+      1: 100582
+    second: Robot_A_Low_Leg_Left
+  - first:
+      1: 100584
+    second: Robot_A_Low_Leg_Right
+  - first:
+      1: 100586
+    second: Robot_A_LowerArm_Left
+  - first:
+      1: 100588
+    second: Robot_A_Shoulder_Plate_Left
+  - first:
+      1: 100590
+    second: Robot_A_Shoulder_Plate_Right
+  - first:
+      1: 100592
+    second: Robot_A_Shoulder_Shield_Left
+  - first:
+      1: 100594
+    second: Robot_A_Torso
+  - first:
+      1: 100596
+    second: Robot_A_Up_Leg_Left
+  - first:
+      1: 100598
+    second: Robot_A_Up_Leg_Right
+  - first:
+      1: 100600
+    second: Robot_A_UpperArm_Left
+  - first:
+      1: 100602
+    second: Robot_A_UpperArm_Right
+  - first:
+      1: 100604
+    second: Robot_A_Body
+  - first:
+      1: 100606
+    second: Robot_A_Left_Arm
+  - first:
+      1: 100608
+    second: Front_Chest_Plate
+  - first:
+      1: 100610
+    second: Left_LowerArm_Translate_Scale
+  - first:
+      1: 100612
+    second: Left_LowerLeg_Translate_Scale
+  - first:
+      1: 100614
+    second: Left_UpperArm_Translate_Scale
+  - first:
+      1: 100616
+    second: Left_UpperArm_Twist_A
+  - first:
+      1: 100618
+    second: Left_UpperLeg_Translate_Scale
+  - first:
+      1: 100620
+    second: Right_LowerArm_Translate_Scale
+  - first:
+      1: 100622
+    second: Right_LowerLeg_Translate_Scale
+  - first:
+      1: 100624
+    second: Right_UpperArm_Translate_Scale
+  - first:
+      1: 100626
+    second: Right_UpperArm_Twist_A
+  - first:
+      1: 100628
+    second: Right_UpperLeg_Translate_Scale
+  - first:
+      1: 100630
+    second: Chest_Noodle
+  - first:
+      1: 100632
+    second: Spine_Noodle
+  - first:
+      1: 100634
+    second: Robot_A_Body_LOD00
+  - first:
+      1: 100636
+    second: Robot_A_Body_LOD01
+  - first:
+      1: 100638
+    second: Robot_A_Body_LOD02
+  - first:
+      1: 100640
+    second: Robot_A_Body_LOD03
+  - first:
+      1: 100642
+    second: Robot_A_LowerArm_Left_LOD0
+  - first:
+      1: 100644
+    second: Robot_A_LowerArm_Left_LOD01
+  - first:
+      1: 100646
+    second: Robot_A_LowerArm_Left_LOD02
+  - first:
+      1: 100648
+    second: Robot_A_LowerArm_Left_LOD03
+  - first:
+      1: 100650
+    second: Root_Motion
+  - first:
+      1: 100652
+    second: Robot_A_LowerArm_Right
+  - first:
+      1: 100654
+    second: Robot_A_LowerArm_Right_LOD0
+  - first:
+      1: 100656
+    second: Robot_A_LowerArm_Right_LOD01
+  - first:
+      1: 100658
+    second: Robot_A_LowerArm_Right_LOD02
+  - first:
+      1: 100660
+    second: Robot_A_LowerArm_Right_LOD03
+  - first:
+      4: 400000
+    second: Barrel_A_LP
+  - first:
+      4: 400002
+    second: Barrel_B_LP
+  - first:
+      4: 400004
+    second: Barrels_Base_A_LP
+  - first:
+      4: 400006
+    second: Barrels_Base_B_LP
+  - first:
+      4: 400008
+    second: Barrels_Base_C_LP
+  - first:
+      4: 400010
+    second: Barrels_Base_D_LP
+  - first:
+      4: 400012
+    second: Barrels_Base_E_LP
+  - first:
+      4: 400014
+    second: Body_A_LP
+  - first:
+      4: 400016
+    second: Body_B_LP
+  - first:
+      4: 400018
+    second: Body_C_LP
+  - first:
+      4: 400020
+    second: Body_D_LP
+  - first:
+      4: 400022
+    second: Brackets_A_LP
+  - first:
+      4: 400024
+    second: Camera
+  - first:
+      4: 400026
+    second: Chest
+  - first:
+      4: 400028
+    second: Cylinder002
+  - first:
+      4: 400030
+    second: Cylinder003
+  - first:
+      4: 400032
+    second: Cylinder004
+  - first:
+      4: 400034
+    second: Cylinder006
+  - first:
+      4: 400036
+    second: Details_A_LP
+  - first:
+      4: 400038
+    second: Foot_Accordion
+  - first:
+      4: 400040
+    second: Foot_Accordion001
+  - first:
+      4: 400042
+    second: Geometry
+  - first:
+      4: 400044
+    second: Grenade_Launcher_Attachment_A_LP
+  - first:
+      4: 400046
+    second: Grenade_Launcher_Back_A_LP
+  - first:
+      4: 400048
+    second: Grenade_Launcher_Back_B_LP
+  - first:
+      4: 400050
+    second: Grenade_Launcher_Back_C_LP
+  - first:
+      4: 400052
+    second: Grenade_Launcher_Drum_A_LP
+  - first:
+      4: 400054
+    second: Grenade_Launcher_Front_A_LP
+  - first:
+      4: 400056
+    second: Grills_A_LP
+  - first:
+      4: 400058
+    second: Head
+  - first:
+      4: 400060
+    second: Head_End
+  - first:
+      4: 400062
+    second: Hips
+  - first:
+      4: 400064
+    second: Key_A_LP
+  - first:
+      4: 400066
+    second: Left_Foot
+  - first:
+      4: 400068
+    second: Left_Foot_Inner
+  - first:
+      4: 400070
+    second: Left_Foot_Outer
+  - first:
+      4: 400072
+    second: Left_Hand
+  - first:
+      4: 400074
+    second: Left_Hand_Attach
+  - first:
+      4: 400076
+    second: Left_Hand_End
+  - first:
+      4: 400078
+    second: Left_Heel
+  - first:
+      4: 400080
+    second: Left_IndexDistal
+  - first:
+      4: 400082
+    second: Left_IndexDistalEnd
+  - first:
+      4: 400084
+    second: Left_IndexIntermediate
+  - first:
+      4: 400086
+    second: Left_IndexProximal
+  - first:
+      4: 400088
+    second: Left_LowerArm
+  - first:
+      4: 400090
+    second: Left_LowerLeg
+  - first:
+      4: 400092
+    second: Left_MiddleDistal
+  - first:
+      4: 400094
+    second: Left_MiddleDistalEnd
+  - first:
+      4: 400096
+    second: Left_MiddleIntermediate
+  - first:
+      4: 400098
+    second: Left_MiddleProximal
+  - first:
+      4: 400100
+    second: Left_Offhand_IK
+  - first:
+      4: 400102
+    second: Left_RingDistal
+  - first:
+      4: 400104
+    second: Left_RingDistalEnd
+  - first:
+      4: 400106
+    second: Left_RingIntermediate
+  - first:
+      4: 400108
+    second: Left_RingProximal
+  - first:
+      4: 400110
+    second: Left_Shoulder
+  - first:
+      4: 400112
+    second: Left_ThumbDistal
+  - first:
+      4: 400114
+    second: Left_ThumbDistalEnd
+  - first:
+      4: 400116
+    second: Left_ThumbIntermediate
+  - first:
+      4: 400118
+    second: Left_ThumbProximal
+  - first:
+      4: 400120
+    second: Left_Toes
+  - first:
+      4: 400122
+    second: Left_ToesEnd
+  - first:
+      4: 400124
+    second: Left_UpperArm
+  - first:
+      4: 400126
+    second: Left_UpperLeg
+  - first:
+      4: 400128
+    second: MIRROR
+  - first:
+      4: 400130
+    second: Neck
+  - first:
+      4: 400132
+    second: Neck_Twist_A
+  - first:
+      4: 400134
+    second: Nuts_Bolts_A_LP
+  - first:
+      4: 400136
+    second: Object
+  - first:
+      4: 400138
+    second: Object006
+  - first:
+      4: 400140
+    second: Object007
+  - first:
+      4: 400142
+    second: Object012
+  - first:
+      4: 400144
+    second: Object013
+  - first:
+      4: 400146
+    second: Object015
+  - first:
+      4: 400148
+    second: Object016
+  - first:
+      4: 400150
+    second: Object017
+  - first:
+      4: 400152
+    second: Object018
+  - first:
+      4: 400154
+    second: Object019
+  - first:
+      4: 400156
+    second: Object020
+  - first:
+      4: 400158
+    second: Object021
+  - first:
+      4: 400160
+    second: Object022
+  - first:
+      4: 400162
+    second: Object023
+  - first:
+      4: 400164
+    second: Object024
+  - first:
+      4: 400166
+    second: Object025
+  - first:
+      4: 400168
+    second: Object026
+  - first:
+      4: 400170
+    second: Object027
+  - first:
+      4: 400172
+    second: Oil_Reader_A_LP
+  - first:
+      4: 400174
+    second: Right_Foot
+  - first:
+      4: 400176
+    second: Right_Foot_Inner
+  - first:
+      4: 400178
+    second: Right_Foot_Outer
+  - first:
+      4: 400180
+    second: Right_Hand
+  - first:
+      4: 400182
+    second: Right_Hand_Attach
+  - first:
+      4: 400184
+    second: Right_Heel
+  - first:
+      4: 400186
+    second: Right_LowerArm
+  - first:
+      4: 400188
+    second: Right_LowerLeg
+  - first:
+      4: 400190
+    second: Right_Offhand_IK
+  - first:
+      4: 400192
+    second: Right_Shoulder
+  - first:
+      4: 400194
+    second: Right_Toes
+  - first:
+      4: 400196
+    second: Right_ToesEnd
+  - first:
+      4: 400198
+    second: Right_UpperArm
+  - first:
+      4: 400200
+    second: Right_UpperLeg
+  - first:
+      4: 400202
+    second: //RootNode
+  - first:
+      4: 400204
+    second: Robot_ArmLower_Left_A001
+  - first:
+      4: 400206
+    second: Robot_ArmUpper_Left_A002
+  - first:
+      4: 400208
+    second: Robot_ArmUpper_Left_A003
+  - first:
+      4: 400210
+    second: Robot_Ear_Left001
+  - first:
+      4: 400212
+    second: Robot_Ear_Right001
+  - first:
+      4: 400214
+    second: Robot_Engine_A
+  - first:
+      4: 400216
+    second: Robot_Engine_Cog_A
+  - first:
+      4: 400218
+    second: Robot_Engine_Piston_D
+  - first:
+      4: 400220
+    second: Robot_Engine_Piston_E
+  - first:
+      4: 400222
+    second: Robot_Engine_Piston_F
+  - first:
+      4: 400224
+    second: Robot_Engine_Tubes_A
+  - first:
+      4: 400226
+    second: Robot_Exhausts_A
+  - first:
+      4: 400228
+    second: Robot_Foot_Left
+  - first:
+      4: 400230
+    second: Robot_Foot_Left001
+  - first:
+      4: 400232
+    second: Robot_FootFront_Right001
+  - first:
+      4: 400234
+    second: Robot_FootFront_Right002
+  - first:
+      4: 400236
+    second: Robot_Hand_Left_A001
+  - first:
+      4: 400238
+    second: Robot_Hand_Left_Balljoint_A001
+  - first:
+      4: 400240
+    second: Robot_Hand_Left_Balljoint_B001
+  - first:
+      4: 400242
+    second: Robot_Hand_Left_Finger_A004
+  - first:
+      4: 400244
+    second: Robot_Hand_Left_Finger_A005
+  - first:
+      4: 400246
+    second: Robot_Hand_Left_Finger_A006
+  - first:
+      4: 400248
+    second: Robot_Hand_Left_Finger_B004
+  - first:
+      4: 400250
+    second: Robot_Hand_Left_Finger_B005
+  - first:
+      4: 400252
+    second: Robot_Hand_Left_Finger_B006
+  - first:
+      4: 400254
+    second: Robot_Hand_Left_Finger_C004
+  - first:
+      4: 400256
+    second: Robot_Hand_Left_Finger_C005
+  - first:
+      4: 400258
+    second: Robot_Hand_Left_Finger_C006
+  - first:
+      4: 400260
+    second: Robot_Hand_Left_Shield_A
+  - first:
+      4: 400262
+    second: Robot_Hand_Left_Thumb_A004
+  - first:
+      4: 400264
+    second: Robot_Hand_Left_Thumb_A005
+  - first:
+      4: 400266
+    second: Robot_Hand_Left_Thumb_A006
+  - first:
+      4: 400268
+    second: Robot_Head_A002
+  - first:
+      4: 400270
+    second: Robot_Jaw_A001
+  - first:
+      4: 400272
+    second: Robot_Pelvis_A
+  - first:
+      4: 400274
+    second: Robot_Shield_Back_A001
+  - first:
+      4: 400276
+    second: Robot_Shield_Chest_A001
+  - first:
+      4: 400278
+    second: Robot_Shield_Left_A001
+  - first:
+      4: 400280
+    second: Robot_Shield_Neck_A001
+  - first:
+      4: 400282
+    second: Robot_Upper_Body_A
+  - first:
+      4: 400284
+    second: Side_Handle_A_LP
+  - first:
+      4: 400286
+    second: Skeleton
+  - first:
+      4: 400288
+    second: Sphere001
+  - first:
+      4: 400290
+    second: Sphere005
+  - first:
+      4: 400292
+    second: Sphere006
+  - first:
+      4: 400294
+    second: Sphere007
+  - first:
+      4: 400296
+    second: Spine
+  - first:
+      4: 400298
+    second: Top_Handle_A_LP
+  - first:
+      4: 400300
+    second: UpperChest
+  - first:
+      4: 400302
+    second: Engine_Pipe_Base
+  - first:
+      4: 400304
+    second: Enging_Block
+  - first:
+      4: 400306
+    second: Left_Engine_Pipe
+  - first:
+      4: 400308
+    second: Left_Engine_Pipe1
+  - first:
+      4: 400310
+    second: Left_LowerArm_Attach
+  - first:
+      4: 400312
+    second: Left_Tube_A_End
+  - first:
+      4: 400314
+    second: Left_Tube_A_Mid
+  - first:
+      4: 400316
+    second: Left_Tube_A_Start
+  - first:
+      4: 400318
+    second: Left_Tube_B_End
+  - first:
+      4: 400320
+    second: Left_Tube_B_Mid
+  - first:
+      4: 400322
+    second: Left_Tube_B_Start
+  - first:
+      4: 400324
+    second: Left_Tube_C_End
+  - first:
+      4: 400326
+    second: Left_Tube_C_Mid
+  - first:
+      4: 400328
+    second: Left_Tube_C_Start
+  - first:
+      4: 400330
+    second: Left_UpperArm_Shield
+  - first:
+      4: 400332
+    second: Right_Engine_Pipe
+  - first:
+      4: 400334
+    second: Right_Engine_Pipe1
+  - first:
+      4: 400336
+    second: Right_Hand_End
+  - first:
+      4: 400338
+    second: Right_IndexDistal
+  - first:
+      4: 400340
+    second: Right_IndexDistalEnd
+  - first:
+      4: 400342
+    second: Right_IndexIntermediate
+  - first:
+      4: 400344
+    second: Right_IndexProximal
+  - first:
+      4: 400346
+    second: Right_LowerArm_Attach
+  - first:
+      4: 400348
+    second: Right_MiddleDistal
+  - first:
+      4: 400350
+    second: Right_MiddleDistalEnd
+  - first:
+      4: 400352
+    second: Right_MiddleIntermediate
+  - first:
+      4: 400354
+    second: Right_MiddleProximal
+  - first:
+      4: 400356
+    second: Right_RingDistal
+  - first:
+      4: 400358
+    second: Right_RingDistalEnd
+  - first:
+      4: 400360
+    second: Right_RingIntermediate
+  - first:
+      4: 400362
+    second: Right_RingProximal
+  - first:
+      4: 400364
+    second: Right_ThumbDistal
+  - first:
+      4: 400366
+    second: Right_ThumbDistalEnd
+  - first:
+      4: 400368
+    second: Right_ThumbIntermediate
+  - first:
+      4: 400370
+    second: Right_ThumbProximal
+  - first:
+      4: 400372
+    second: Right_Tube_A_End
+  - first:
+      4: 400374
+    second: Right_Tube_A_Mid
+  - first:
+      4: 400376
+    second: Right_Tube_A_Start
+  - first:
+      4: 400378
+    second: Right_Tube_B_End
+  - first:
+      4: 400380
+    second: Right_Tube_B_Mid
+  - first:
+      4: 400382
+    second: Right_Tube_B_Start
+  - first:
+      4: 400384
+    second: Right_Tube_C_End
+  - first:
+      4: 400386
+    second: Right_Tube_C_Mid
+  - first:
+      4: 400388
+    second: Right_Tube_C_Start
+  - first:
+      4: 400390
+    second: Body
+  - first:
+      4: 400392
+    second: Left_Arm
+  - first:
+      4: 400394
+    second: polySurface10
+  - first:
+      4: 400396
+    second: polySurface11
+  - first:
+      4: 400398
+    second: polySurface12
+  - first:
+      4: 400400
+    second: polySurface7
+  - first:
+      4: 400402
+    second: polySurface8
+  - first:
+      4: 400404
+    second: polySurface9
+  - first:
+      4: 400406
+    second: Sphere010
+  - first:
+      4: 400408
+    second: Back_Chest_Plate
+  - first:
+      4: 400410
+    second: Engine_Piston_Left_Low
+  - first:
+      4: 400412
+    second: Engine_Piston_Left_Mid
+  - first:
+      4: 400414
+    second: Engine_Piston_Left_Up
+  - first:
+      4: 400416
+    second: Engine_Piston_Right_Low
+  - first:
+      4: 400418
+    second: Engine_Piston_Right_Mid
+  - first:
+      4: 400420
+    second: Engine_Piston_Right_Up
+  - first:
+      4: 400422
+    second: Front_Chest_Plate_Low
+  - first:
+      4: 400424
+    second: Front_Chest_Plate_Up
+  - first:
+      4: 400426
+    second: Hips_Offset
+  - first:
+      4: 400428
+    second: Hips_Offset_Inner
+  - first:
+      4: 400430
+    second: Jaw
+  - first:
+      4: 400432
+    second: joint2
+  - first:
+      4: 400434
+    second: joint2 1
+  - first:
+      4: 400436
+    second: Left_Chest_Plate
+  - first:
+      4: 400438
+    second: Left_Engine_Pipe_Exhaust
+  - first:
+      4: 400440
+    second: Left_Foot_Offset
+  - first:
+      4: 400442
+    second: Left_LowerArm_Offset
+  - first:
+      4: 400444
+    second: Left_LowerLeg_Offset
+  - first:
+      4: 400446
+    second: Left_Toes_Offset
+  - first:
+      4: 400448
+    second: Left_UpperArm_Offset
+  - first:
+      4: 400450
+    second: Left_UpperArm_Shoulder_Plate
+  - first:
+      4: 400452
+    second: Left_UpperLeg_Back_Plate
+  - first:
+      4: 400454
+    second: Left_UpperLeg_Front_Plate
+  - first:
+      4: 400456
+    second: Left_UpperLeg_Offset
+  - first:
+      4: 400458
+    second: Left_UpperLeg_Top_Plate
+  - first:
+      4: 400460
+    second: Right_Chest_Plate
+  - first:
+      4: 400462
+    second: Right_Engine_Pipe_Exhaust
+  - first:
+      4: 400464
+    second: Right_Foot_Offset
+  - first:
+      4: 400466
+    second: Right_LowerArm_Offset
+  - first:
+      4: 400468
+    second: Right_LowerLeg_Offset
+  - first:
+      4: 400470
+    second: Right_Toes_Offset
+  - first:
+      4: 400472
+    second: Right_UpperArm_Offset
+  - first:
+      4: 400474
+    second: Right_UpperArm_Shoulder_Plate
+  - first:
+      4: 400476
+    second: Right_UpperLeg_Back_Plate
+  - first:
+      4: 400478
+    second: Right_UpperLeg_Front_Plate
+  - first:
+      4: 400480
+    second: Right_UpperLeg_Offset
+  - first:
+      4: 400482
+    second: Right_UpperLeg_Top_Plate
+  - first:
+      4: 400484
+    second: Up_Chest_Plate
+  - first:
+      4: 400486
+    second: UpperChest_Offset
+  - first:
+      4: 400488
+    second: Foot_Accordion_Left
+  - first:
+      4: 400490
+    second: Foot_Accordion_Right
+  - first:
+      4: 400492
+    second: Left_Engine_Fan_Low
+  - first:
+      4: 400494
+    second: Left_Engine_Fan_Mid
+  - first:
+      4: 400496
+    second: Left_Engine_Fan_Up
+  - first:
+      4: 400498
+    second: Left_Engine_Pipe_Exhaust_End
+  - first:
+      4: 400500
+    second: Left_Hand_Plate
+  - first:
+      4: 400502
+    second: Right_Engine_Fan_Low
+  - first:
+      4: 400504
+    second: Right_Engine_Fan_Mid
+  - first:
+      4: 400506
+    second: Right_Engine_Fan_Up
+  - first:
+      4: 400508
+    second: Right_Engine_Pipe_Exhaust_End
+  - first:
+      4: 400510
+    second: Right_Hand_Plate
+  - first:
+      4: 400512
+    second: Right_UpperArm_Shield
+  - first:
+      4: 400514
+    second: Robot_A_Clavicle_Left
+  - first:
+      4: 400516
+    second: Robot_A_Clavicle_Right
+  - first:
+      4: 400518
+    second: Robot_A_Engine
+  - first:
+      4: 400520
+    second: Robot_A_Engine_Cog
+  - first:
+      4: 400522
+    second: Robot_A_Engine_Piston_A
+  - first:
+      4: 400524
+    second: Robot_A_Engine_Piston_B
+  - first:
+      4: 400526
+    second: Robot_A_Engine_Piston_C
+  - first:
+      4: 400528
+    second: Robot_A_Engine_Piston_D
+  - first:
+      4: 400530
+    second: Robot_A_Engine_Piston_E
+  - first:
+      4: 400532
+    second: Robot_A_Engine_Piston_F
+  - first:
+      4: 400534
+    second: Robot_A_Engine_Tubes
+  - first:
+      4: 400536
+    second: Robot_A_Exhausts
+  - first:
+      4: 400538
+    second: Robot_A_Foot_Left
+  - first:
+      4: 400540
+    second: Robot_A_Foot_Left1
+  - first:
+      4: 400542
+    second: Robot_A_FootFront_Left
+  - first:
+      4: 400544
+    second: Robot_A_FootFront_Right
+  - first:
+      4: 400546
+    second: Robot_A_Hand_Left1
+  - first:
+      4: 400548
+    second: Robot_A_Hand_Middle_A_Left1
+  - first:
+      4: 400550
+    second: Robot_A_Hand_Middle_B_Left1
+  - first:
+      4: 400552
+    second: Robot_A_Hand_Middle_C_Left1
+  - first:
+      4: 400554
+    second: Robot_A_Hand_Pinky_A_Left2
+  - first:
+      4: 400556
+    second: Robot_A_Hand_Pinky_B_Left2
+  - first:
+      4: 400558
+    second: Robot_A_Hand_Pinky_C_Left2
+  - first:
+      4: 400560
+    second: Robot_A_Hand_Pinky_Metacarpal_Left2
+  - first:
+      4: 400562
+    second: Robot_A_Hand_Right_Metacarpal_Left
+  - first:
+      4: 400564
+    second: Robot_A_Hand_Ring_A_Left
+  - first:
+      4: 400566
+    second: Robot_A_Hand_Ring_B_Left
+  - first:
+      4: 400568
+    second: Robot_A_Hand_Ring_C_Left
+  - first:
+      4: 400570
+    second: Robot_A_Hand_Shield_Left1
+  - first:
+      4: 400572
+    second: Robot_A_Hand_Thumb_A_Left1
+  - first:
+      4: 400574
+    second: Robot_A_Hand_Thumb_B_Left1
+  - first:
+      4: 400576
+    second: Robot_A_Hand_Thumb_C_Left1
+  - first:
+      4: 400578
+    second: Robot_A_Head
+  - first:
+      4: 400580
+    second: Robot_A_Jaw
+  - first:
+      4: 400582
+    second: Robot_A_Low_Leg_Left
+  - first:
+      4: 400584
+    second: Robot_A_Low_Leg_Right
+  - first:
+      4: 400586
+    second: Robot_A_LowerArm_Left
+  - first:
+      4: 400588
+    second: Robot_A_Shoulder_Plate_Left
+  - first:
+      4: 400590
+    second: Robot_A_Shoulder_Plate_Right
+  - first:
+      4: 400592
+    second: Robot_A_Shoulder_Shield_Left
+  - first:
+      4: 400594
+    second: Robot_A_Torso
+  - first:
+      4: 400596
+    second: Robot_A_Up_Leg_Left
+  - first:
+      4: 400598
+    second: Robot_A_Up_Leg_Right
+  - first:
+      4: 400600
+    second: Robot_A_UpperArm_Left
+  - first:
+      4: 400602
+    second: Robot_A_UpperArm_Right
+  - first:
+      4: 400604
+    second: Robot_A_Body
+  - first:
+      4: 400606
+    second: Robot_A_Left_Arm
+  - first:
+      4: 400608
+    second: Front_Chest_Plate
+  - first:
+      4: 400610
+    second: Left_LowerArm_Translate_Scale
+  - first:
+      4: 400612
+    second: Left_LowerLeg_Translate_Scale
+  - first:
+      4: 400614
+    second: Left_UpperArm_Translate_Scale
+  - first:
+      4: 400616
+    second: Left_UpperArm_Twist_A
+  - first:
+      4: 400618
+    second: Left_UpperLeg_Translate_Scale
+  - first:
+      4: 400620
+    second: Right_LowerArm_Translate_Scale
+  - first:
+      4: 400622
+    second: Right_LowerLeg_Translate_Scale
+  - first:
+      4: 400624
+    second: Right_UpperArm_Translate_Scale
+  - first:
+      4: 400626
+    second: Right_UpperArm_Twist_A
+  - first:
+      4: 400628
+    second: Right_UpperLeg_Translate_Scale
+  - first:
+      4: 400630
+    second: Chest_Noodle
+  - first:
+      4: 400632
+    second: Spine_Noodle
+  - first:
+      4: 400634
+    second: Robot_A_Body_LOD00
+  - first:
+      4: 400636
+    second: Robot_A_Body_LOD01
+  - first:
+      4: 400638
+    second: Robot_A_Body_LOD02
+  - first:
+      4: 400640
+    second: Robot_A_Body_LOD03
+  - first:
+      4: 400642
+    second: Robot_A_LowerArm_Left_LOD0
+  - first:
+      4: 400644
+    second: Robot_A_LowerArm_Left_LOD01
+  - first:
+      4: 400646
+    second: Robot_A_LowerArm_Left_LOD02
+  - first:
+      4: 400648
+    second: Robot_A_LowerArm_Left_LOD03
+  - first:
+      4: 400650
+    second: Root_Motion
+  - first:
+      4: 400652
+    second: Robot_A_LowerArm_Right
+  - first:
+      4: 400654
+    second: Robot_A_LowerArm_Right_LOD0
+  - first:
+      4: 400656
+    second: Robot_A_LowerArm_Right_LOD01
+  - first:
+      4: 400658
+    second: Robot_A_LowerArm_Right_LOD02
+  - first:
+      4: 400660
+    second: Robot_A_LowerArm_Right_LOD03
+  - first:
+      21: 2100000
+    second: 09 - Default
+  - first:
+      21: 2100002
+    second: 08 - Default
+  - first:
+      21: 2100004
+    second: Material #426
+  - first:
+      23: 2300000
+    second: Object023
+  - first:
+      23: 2300002
+    second: Object024
+  - first:
+      23: 2300004
+    second: Object025
+  - first:
+      23: 2300006
+    second: Object026
+  - first:
+      33: 3300000
+    second: Object023
+  - first:
+      33: 3300002
+    second: Object024
+  - first:
+      33: 3300004
+    second: Object025
+  - first:
+      33: 3300006
+    second: Object026
+  - first:
+      43: 4300000
+    second: Robot_Pelvis_A
+  - first:
+      43: 4300002
+    second: Cylinder006
+  - first:
+      43: 4300004
+    second: Robot_Upper_Body_A
+  - first:
+      43: 4300006
+    second: Sphere005
+  - first:
+      43: 4300008
+    second: Sphere001
+  - first:
+      43: 4300010
+    second: Cylinder002
+  - first:
+      43: 4300012
+    second: Object006
+  - first:
+      43: 4300014
+    second: Robot_ArmLower_Left_A001
+  - first:
+      43: 4300016
+    second: Robot_Hand_Left_A001
+  - first:
+      43: 4300018
+    second: Robot_Hand_Left_Balljoint_A001
+  - first:
+      43: 4300020
+    second: Robot_Hand_Left_Thumb_A004
+  - first:
+      43: 4300022
+    second: Robot_Hand_Left_Thumb_A005
+  - first:
+      43: 4300024
+    second: Robot_Hand_Left_Thumb_A006
+  - first:
+      43: 4300026
+    second: Robot_Hand_Left_Finger_C004
+  - first:
+      43: 4300028
+    second: Robot_Hand_Left_Finger_C005
+  - first:
+      43: 4300030
+    second: Robot_Hand_Left_Finger_C006
+  - first:
+      43: 4300032
+    second: Robot_Hand_Left_Balljoint_B001
+  - first:
+      43: 4300034
+    second: Robot_Hand_Left_Finger_A004
+  - first:
+      43: 4300036
+    second: Robot_Hand_Left_Finger_A005
+  - first:
+      43: 4300038
+    second: Robot_Hand_Left_Finger_A006
+  - first:
+      43: 4300040
+    second: Robot_Hand_Left_Finger_B004
+  - first:
+      43: 4300042
+    second: Robot_Hand_Left_Finger_B005
+  - first:
+      43: 4300044
+    second: Robot_Hand_Left_Finger_B006
+  - first:
+      43: 4300046
+    second: Robot_Hand_Left_Shield_A
+  - first:
+      43: 4300048
+    second: Robot_ArmUpper_Left_A002
+  - first:
+      43: 4300050
+    second: Object015
+  - first:
+      43: 4300052
+    second: Robot_Shield_Chest_A001
+  - first:
+      43: 4300054
+    second: Robot_Shield_Left_A001
+  - first:
+      43: 4300056
+    second: Robot_Shield_Back_A001
+  - first:
+      43: 4300058
+    second: Robot_Engine_A
+  - first:
+      43: 4300060
+    second: Robot_Exhausts_A
+  - first:
+      43: 4300062
+    second: Robot_Engine_Cog_A
+  - first:
+      43: 4300064
+    second: Object018
+  - first:
+      43: 4300066
+    second: Object017
+  - first:
+      43: 4300068
+    second: Object016
+  - first:
+      43: 4300070
+    second: Robot_Engine_Piston_F
+  - first:
+      43: 4300072
+    second: Robot_Engine_Piston_E
+  - first:
+      43: 4300074
+    second: Robot_Engine_Piston_D
+  - first:
+      43: 4300076
+    second: Robot_Engine_Tubes_A
+  - first:
+      43: 4300078
+    second: Object013
+  - first:
+      43: 4300080
+    second: Robot_Shield_Neck_A001
+  - first:
+      43: 4300082
+    second: Robot_Head_A002
+  - first:
+      43: 4300084
+    second: Robot_Jaw_A001
+  - first:
+      43: 4300086
+    second: Robot_Ear_Right001
+  - first:
+      43: 4300088
+    second: Robot_Ear_Left001
+  - first:
+      43: 4300090
+    second: Sphere007
+  - first:
+      43: 4300092
+    second: Sphere006
+  - first:
+      43: 4300094
+    second: Cylinder004
+  - first:
+      43: 4300096
+    second: Robot_ArmUpper_Left_A003
+  - first:
+      43: 4300098
+    second: Body_A_LP
+  - first:
+      43: 4300100
+    second: Grenade_Launcher_Back_A_LP
+  - first:
+      43: 4300102
+    second: Barrel_B_LP
+  - first:
+      43: 4300104
+    second: Barrels_Base_A_LP
+  - first:
+      43: 4300106
+    second: Barrels_Base_B_LP
+  - first:
+      43: 4300108
+    second: Barrels_Base_C_LP
+  - first:
+      43: 4300110
+    second: Barrels_Base_D_LP
+  - first:
+      43: 4300112
+    second: Oil_Reader_A_LP
+  - first:
+      43: 4300114
+    second: Body_B_LP
+  - first:
+      43: 4300116
+    second: Key_A_LP
+  - first:
+      43: 4300118
+    second: Grills_A_LP
+  - first:
+      43: 4300120
+    second: Brackets_A_LP
+  - first:
+      43: 4300122
+    second: Details_A_LP
+  - first:
+      43: 4300124
+    second: Grenade_Launcher_Attachment_A_LP
+  - first:
+      43: 4300126
+    second: Barrels_Base_E_LP
+  - first:
+      43: 4300128
+    second: Grenade_Launcher_Front_A_LP
+  - first:
+      43: 4300130
+    second: Grenade_Launcher_Back_C_LP
+  - first:
+      43: 4300132
+    second: Grenade_Launcher_Drum_A_LP
+  - first:
+      43: 4300134
+    second: Grenade_Launcher_Back_B_LP
+  - first:
+      43: 4300136
+    second: Body_D_LP
+  - first:
+      43: 4300138
+    second: Body_C_LP
+  - first:
+      43: 4300140
+    second: Nuts_Bolts_A_LP
+  - first:
+      43: 4300142
+    second: Side_Handle_A_LP
+  - first:
+      43: 4300144
+    second: Object
+  - first:
+      43: 4300146
+    second: Top_Handle_A_LP
+  - first:
+      43: 4300148
+    second: MIRROR
+  - first:
+      43: 4300150
+    second: Barrel_A_LP
+  - first:
+      43: 4300152
+    second: Cylinder003
+  - first:
+      43: 4300154
+    second: Object019
+  - first:
+      43: 4300156
+    second: Object020
+  - first:
+      43: 4300158
+    second: Robot_Foot_Left001
+  - first:
+      43: 4300160
+    second: Foot_Accordion001
+  - first:
+      43: 4300162
+    second: Robot_FootFront_Right002
+  - first:
+      43: 4300164
+    second: Object022
+  - first:
+      43: 4300166
+    second: Object025
+  - first:
+      43: 4300168
+    second: Object026
+  - first:
+      43: 4300170
+    second: Object007
+  - first:
+      43: 4300172
+    second: Object012
+  - first:
+      43: 4300174
+    second: Robot_Foot_Left
+  - first:
+      43: 4300176
+    second: Foot_Accordion
+  - first:
+      43: 4300178
+    second: Robot_FootFront_Right001
+  - first:
+      43: 4300180
+    second: Object021
+  - first:
+      43: 4300182
+    second: Object023
+  - first:
+      43: 4300184
+    second: Object024
+  - first:
+      43: 4300186
+    second: Object027
+  - first:
+      43: 4300188
+    second: Sphere010
+  - first:
+      43: 4300190
+    second: polySurface7
+  - first:
+      43: 4300192
+    second: polySurface8
+  - first:
+      43: 4300194
+    second: polySurface9
+  - first:
+      43: 4300196
+    second: polySurface10
+  - first:
+      43: 4300198
+    second: polySurface11
+  - first:
+      43: 4300200
+    second: polySurface12
+  - first:
+      43: 4300202
+    second: Robot_A_Head
+  - first:
+      43: 4300204
+    second: Robot_A_Clavicle_Left
+  - first:
+      43: 4300206
+    second: Robot_A_Clavicle_Right
+  - first:
+      43: 4300208
+    second: Robot_A_Up_Leg_Left
+  - first:
+      43: 4300210
+    second: Robot_A_Up_Leg_Right
+  - first:
+      43: 4300212
+    second: Robot_A_Engine
+  - first:
+      43: 4300214
+    second: Robot_A_Engine_Tubes
+  - first:
+      43: 4300216
+    second: Robot_A_Exhausts
+  - first:
+      43: 4300218
+    second: Robot_A_Engine_Cog
+  - first:
+      43: 4300220
+    second: Robot_A_Engine_Piston_A
+  - first:
+      43: 4300222
+    second: Robot_A_Engine_Piston_B
+  - first:
+      43: 4300224
+    second: Robot_A_Engine_Piston_C
+  - first:
+      43: 4300226
+    second: Robot_A_Engine_Piston_D
+  - first:
+      43: 4300228
+    second: Robot_A_Engine_Piston_E
+  - first:
+      43: 4300230
+    second: Robot_A_Engine_Piston_F
+  - first:
+      43: 4300232
+    second: Robot_A_Torso
+  - first:
+      43: 4300234
+    second: Foot_Accordion_Right
+  - first:
+      43: 4300236
+    second: Robot_A_FootFront_Right
+  - first:
+      43: 4300238
+    second: Robot_A_Foot_Left
+  - first:
+      43: 4300240
+    second: Robot_A_Low_Leg_Right
+  - first:
+      43: 4300242
+    second: Robot_A_Low_Leg_Left
+  - first:
+      43: 4300244
+    second: Robot_A_Foot_Left1
+  - first:
+      43: 4300246
+    second: Robot_A_FootFront_Left
+  - first:
+      43: 4300248
+    second: Foot_Accordion_Left
+  - first:
+      43: 4300250
+    second: Robot_A_UpperArm_Right
+  - first:
+      43: 4300252
+    second: Robot_A_Shoulder_Plate_Right
+  - first:
+      43: 4300254
+    second: Robot_A_UpperArm_Left
+  - first:
+      43: 4300256
+    second: Robot_A_Shoulder_Plate_Left
+  - first:
+      43: 4300258
+    second: Robot_A_Shoulder_Shield_Left
+  - first:
+      43: 4300260
+    second: Robot_A_Jaw
+  - first:
+      43: 4300262
+    second: Robot_A_Hand_Thumb_B_Left1
+  - first:
+      43: 4300264
+    second: Robot_A_Hand_Thumb_A_Left1
+  - first:
+      43: 4300266
+    second: Robot_A_Hand_Ring_C_Left
+  - first:
+      43: 4300268
+    second: Robot_A_Hand_Pinky_B_Left2
+  - first:
+      43: 4300270
+    second: Robot_A_Hand_Pinky_A_Left2
+  - first:
+      43: 4300272
+    second: Robot_A_Hand_Pinky_Metacarpal_Left2
+  - first:
+      43: 4300274
+    second: Robot_A_Hand_Thumb_C_Left1
+  - first:
+      43: 4300276
+    second: Robot_A_Hand_Ring_B_Left
+  - first:
+      43: 4300278
+    second: Robot_A_Hand_Ring_A_Left
+  - first:
+      43: 4300280
+    second: Robot_A_Hand_Right_Metacarpal_Left
+  - first:
+      43: 4300282
+    second: Robot_A_Hand_Middle_C_Left1
+  - first:
+      43: 4300284
+    second: Robot_A_Hand_Middle_B_Left1
+  - first:
+      43: 4300286
+    second: Robot_A_Hand_Middle_A_Left1
+  - first:
+      43: 4300288
+    second: Robot_A_Hand_Pinky_C_Left2
+  - first:
+      43: 4300290
+    second: Robot_A_Hand_Shield_Left1
+  - first:
+      43: 4300292
+    second: Robot_A_Hand_Left1
+  - first:
+      43: 4300294
+    second: Robot_A_LowerArm_Left
+  - first:
+      43: 4300296
+    second: Robot_A_Body
+  - first:
+      43: 4300298
+    second: Robot_A_Left_Arm
+  - first:
+      43: 4300300
+    second: Robot_A_Body_LOD00
+  - first:
+      43: 4300302
+    second: Robot_A_Body_LOD01
+  - first:
+      43: 4300304
+    second: Robot_A_Body_LOD02
+  - first:
+      43: 4300306
+    second: Robot_A_Body_LOD03
+  - first:
+      43: 4300308
+    second: Robot_A_LowerArm_Left_LOD0
+  - first:
+      43: 4300310
+    second: Robot_A_LowerArm_Left_LOD01
+  - first:
+      43: 4300312
+    second: Robot_A_LowerArm_Left_LOD02
+  - first:
+      43: 4300314
+    second: Robot_A_LowerArm_Left_LOD03
+  - first:
+      43: 4300316
+    second: Robot_A_LowerArm_Right_LOD0
+  - first:
+      43: 4300318
+    second: Robot_A_LowerArm_Right_LOD01
+  - first:
+      43: 4300320
+    second: Robot_A_LowerArm_Right_LOD02
+  - first:
+      43: 4300322
+    second: Robot_A_LowerArm_Right_LOD03
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      114: 11400000
+    second: //RootNode
+  - first:
+      114: 11400002
+    second: //RootNode
+  - first:
+      114: 11400004
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Barrel_A_LP
+  - first:
+      137: 13700002
+    second: Barrel_B_LP
+  - first:
+      137: 13700004
+    second: Barrels_Base_A_LP
+  - first:
+      137: 13700006
+    second: Barrels_Base_B_LP
+  - first:
+      137: 13700008
+    second: Barrels_Base_C_LP
+  - first:
+      137: 13700010
+    second: Barrels_Base_D_LP
+  - first:
+      137: 13700012
+    second: Barrels_Base_E_LP
+  - first:
+      137: 13700014
+    second: Body_A_LP
+  - first:
+      137: 13700016
+    second: Body_B_LP
+  - first:
+      137: 13700018
+    second: Body_C_LP
+  - first:
+      137: 13700020
+    second: Body_D_LP
+  - first:
+      137: 13700022
+    second: Brackets_A_LP
+  - first:
+      137: 13700024
+    second: Cylinder002
+  - first:
+      137: 13700026
+    second: Cylinder003
+  - first:
+      137: 13700028
+    second: Cylinder004
+  - first:
+      137: 13700030
+    second: Cylinder006
+  - first:
+      137: 13700032
+    second: Details_A_LP
+  - first:
+      137: 13700034
+    second: Foot_Accordion
+  - first:
+      137: 13700036
+    second: Foot_Accordion001
+  - first:
+      137: 13700038
+    second: Grenade_Launcher_Attachment_A_LP
+  - first:
+      137: 13700040
+    second: Grenade_Launcher_Back_A_LP
+  - first:
+      137: 13700042
+    second: Grenade_Launcher_Back_B_LP
+  - first:
+      137: 13700044
+    second: Grenade_Launcher_Back_C_LP
+  - first:
+      137: 13700046
+    second: Grenade_Launcher_Drum_A_LP
+  - first:
+      137: 13700048
+    second: Grenade_Launcher_Front_A_LP
+  - first:
+      137: 13700050
+    second: Grills_A_LP
+  - first:
+      137: 13700052
+    second: Key_A_LP
+  - first:
+      137: 13700054
+    second: MIRROR
+  - first:
+      137: 13700056
+    second: Nuts_Bolts_A_LP
+  - first:
+      137: 13700058
+    second: Object
+  - first:
+      137: 13700060
+    second: Object006
+  - first:
+      137: 13700062
+    second: Object007
+  - first:
+      137: 13700064
+    second: Object012
+  - first:
+      137: 13700066
+    second: Object013
+  - first:
+      137: 13700068
+    second: Object015
+  - first:
+      137: 13700070
+    second: Object016
+  - first:
+      137: 13700072
+    second: Object017
+  - first:
+      137: 13700074
+    second: Object018
+  - first:
+      137: 13700076
+    second: Object019
+  - first:
+      137: 13700078
+    second: Object020
+  - first:
+      137: 13700080
+    second: Object021
+  - first:
+      137: 13700082
+    second: Object022
+  - first:
+      137: 13700084
+    second: Object024
+  - first:
+      137: 13700086
+    second: Object025
+  - first:
+      137: 13700088
+    second: Object026
+  - first:
+      137: 13700090
+    second: Object027
+  - first:
+      137: 13700092
+    second: Oil_Reader_A_LP
+  - first:
+      137: 13700094
+    second: Robot_ArmLower_Left_A001
+  - first:
+      137: 13700096
+    second: Robot_ArmUpper_Left_A002
+  - first:
+      137: 13700098
+    second: Robot_ArmUpper_Left_A003
+  - first:
+      137: 13700100
+    second: Robot_Ear_Left001
+  - first:
+      137: 13700102
+    second: Robot_Ear_Right001
+  - first:
+      137: 13700104
+    second: Robot_Engine_A
+  - first:
+      137: 13700106
+    second: Robot_Engine_Cog_A
+  - first:
+      137: 13700108
+    second: Robot_Engine_Piston_D
+  - first:
+      137: 13700110
+    second: Robot_Engine_Piston_E
+  - first:
+      137: 13700112
+    second: Robot_Engine_Piston_F
+  - first:
+      137: 13700114
+    second: Robot_Engine_Tubes_A
+  - first:
+      137: 13700116
+    second: Robot_Exhausts_A
+  - first:
+      137: 13700118
+    second: Robot_Foot_Left
+  - first:
+      137: 13700120
+    second: Robot_Foot_Left001
+  - first:
+      137: 13700122
+    second: Robot_FootFront_Right001
+  - first:
+      137: 13700124
+    second: Robot_FootFront_Right002
+  - first:
+      137: 13700126
+    second: Robot_Hand_Left_A001
+  - first:
+      137: 13700128
+    second: Robot_Hand_Left_Balljoint_A001
+  - first:
+      137: 13700130
+    second: Robot_Hand_Left_Balljoint_B001
+  - first:
+      137: 13700132
+    second: Robot_Hand_Left_Finger_A004
+  - first:
+      137: 13700134
+    second: Robot_Hand_Left_Finger_A005
+  - first:
+      137: 13700136
+    second: Robot_Hand_Left_Finger_A006
+  - first:
+      137: 13700138
+    second: Robot_Hand_Left_Finger_B004
+  - first:
+      137: 13700140
+    second: Robot_Hand_Left_Finger_B005
+  - first:
+      137: 13700142
+    second: Robot_Hand_Left_Finger_B006
+  - first:
+      137: 13700144
+    second: Robot_Hand_Left_Finger_C004
+  - first:
+      137: 13700146
+    second: Robot_Hand_Left_Finger_C005
+  - first:
+      137: 13700148
+    second: Robot_Hand_Left_Finger_C006
+  - first:
+      137: 13700150
+    second: Robot_Hand_Left_Shield_A
+  - first:
+      137: 13700152
+    second: Robot_Hand_Left_Thumb_A004
+  - first:
+      137: 13700154
+    second: Robot_Hand_Left_Thumb_A005
+  - first:
+      137: 13700156
+    second: Robot_Hand_Left_Thumb_A006
+  - first:
+      137: 13700158
+    second: Robot_Head_A002
+  - first:
+      137: 13700160
+    second: Robot_Jaw_A001
+  - first:
+      137: 13700162
+    second: Robot_Pelvis_A
+  - first:
+      137: 13700164
+    second: Robot_Shield_Back_A001
+  - first:
+      137: 13700166
+    second: Robot_Shield_Chest_A001
+  - first:
+      137: 13700168
+    second: Robot_Shield_Left_A001
+  - first:
+      137: 13700170
+    second: Robot_Shield_Neck_A001
+  - first:
+      137: 13700172
+    second: Robot_Upper_Body_A
+  - first:
+      137: 13700174
+    second: Side_Handle_A_LP
+  - first:
+      137: 13700176
+    second: Sphere001
+  - first:
+      137: 13700178
+    second: Sphere005
+  - first:
+      137: 13700180
+    second: Sphere006
+  - first:
+      137: 13700182
+    second: Sphere007
+  - first:
+      137: 13700184
+    second: Top_Handle_A_LP
+  - first:
+      137: 13700186
+    second: Object023
+  - first:
+      137: 13700188
+    second: polySurface10
+  - first:
+      137: 13700190
+    second: polySurface11
+  - first:
+      137: 13700192
+    second: polySurface12
+  - first:
+      137: 13700194
+    second: polySurface7
+  - first:
+      137: 13700196
+    second: polySurface8
+  - first:
+      137: 13700198
+    second: polySurface9
+  - first:
+      137: 13700200
+    second: Sphere010
+  - first:
+      137: 13700202
+    second: Foot_Accordion_Left
+  - first:
+      137: 13700204
+    second: Foot_Accordion_Right
+  - first:
+      137: 13700206
+    second: Robot_A_Clavicle_Left
+  - first:
+      137: 13700208
+    second: Robot_A_Clavicle_Right
+  - first:
+      137: 13700210
+    second: Robot_A_Engine
+  - first:
+      137: 13700212
+    second: Robot_A_Engine_Cog
+  - first:
+      137: 13700214
+    second: Robot_A_Engine_Piston_A
+  - first:
+      137: 13700216
+    second: Robot_A_Engine_Piston_B
+  - first:
+      137: 13700218
+    second: Robot_A_Engine_Piston_C
+  - first:
+      137: 13700220
+    second: Robot_A_Engine_Piston_D
+  - first:
+      137: 13700222
+    second: Robot_A_Engine_Piston_E
+  - first:
+      137: 13700224
+    second: Robot_A_Engine_Piston_F
+  - first:
+      137: 13700226
+    second: Robot_A_Engine_Tubes
+  - first:
+      137: 13700228
+    second: Robot_A_Exhausts
+  - first:
+      137: 13700230
+    second: Robot_A_Foot_Left
+  - first:
+      137: 13700232
+    second: Robot_A_Foot_Left1
+  - first:
+      137: 13700234
+    second: Robot_A_FootFront_Left
+  - first:
+      137: 13700236
+    second: Robot_A_FootFront_Right
+  - first:
+      137: 13700238
+    second: Robot_A_Hand_Left1
+  - first:
+      137: 13700240
+    second: Robot_A_Hand_Middle_A_Left1
+  - first:
+      137: 13700242
+    second: Robot_A_Hand_Middle_B_Left1
+  - first:
+      137: 13700244
+    second: Robot_A_Hand_Middle_C_Left1
+  - first:
+      137: 13700246
+    second: Robot_A_Hand_Pinky_A_Left2
+  - first:
+      137: 13700248
+    second: Robot_A_Hand_Pinky_B_Left2
+  - first:
+      137: 13700250
+    second: Robot_A_Hand_Pinky_C_Left2
+  - first:
+      137: 13700252
+    second: Robot_A_Hand_Pinky_Metacarpal_Left2
+  - first:
+      137: 13700254
+    second: Robot_A_Hand_Right_Metacarpal_Left
+  - first:
+      137: 13700256
+    second: Robot_A_Hand_Ring_A_Left
+  - first:
+      137: 13700258
+    second: Robot_A_Hand_Ring_B_Left
+  - first:
+      137: 13700260
+    second: Robot_A_Hand_Ring_C_Left
+  - first:
+      137: 13700262
+    second: Robot_A_Hand_Shield_Left1
+  - first:
+      137: 13700264
+    second: Robot_A_Hand_Thumb_A_Left1
+  - first:
+      137: 13700266
+    second: Robot_A_Hand_Thumb_B_Left1
+  - first:
+      137: 13700268
+    second: Robot_A_Hand_Thumb_C_Left1
+  - first:
+      137: 13700270
+    second: Robot_A_Head
+  - first:
+      137: 13700272
+    second: Robot_A_Jaw
+  - first:
+      137: 13700274
+    second: Robot_A_Low_Leg_Left
+  - first:
+      137: 13700276
+    second: Robot_A_Low_Leg_Right
+  - first:
+      137: 13700278
+    second: Robot_A_LowerArm_Left
+  - first:
+      137: 13700280
+    second: Robot_A_Shoulder_Plate_Left
+  - first:
+      137: 13700282
+    second: Robot_A_Shoulder_Plate_Right
+  - first:
+      137: 13700284
+    second: Robot_A_Shoulder_Shield_Left
+  - first:
+      137: 13700286
+    second: Robot_A_Torso
+  - first:
+      137: 13700288
+    second: Robot_A_Up_Leg_Left
+  - first:
+      137: 13700290
+    second: Robot_A_Up_Leg_Right
+  - first:
+      137: 13700292
+    second: Robot_A_UpperArm_Left
+  - first:
+      137: 13700294
+    second: Robot_A_UpperArm_Right
+  - first:
+      137: 13700296
+    second: Robot_A_Body
+  - first:
+      137: 13700298
+    second: Robot_A_Left_Arm
+  - first:
+      137: 13700300
+    second: Robot_A_Body_LOD00
+  - first:
+      137: 13700302
+    second: Robot_A_Body_LOD01
+  - first:
+      137: 13700304
+    second: Robot_A_Body_LOD02
+  - first:
+      137: 13700306
+    second: Robot_A_Body_LOD03
+  - first:
+      137: 13700308
+    second: Robot_A_LowerArm_Left_LOD0
+  - first:
+      137: 13700310
+    second: Robot_A_LowerArm_Left_LOD01
+  - first:
+      137: 13700312
+    second: Robot_A_LowerArm_Left_LOD02
+  - first:
+      137: 13700314
+    second: Robot_A_LowerArm_Left_LOD03
+  - first:
+      137: 13700316
+    second: Robot_A_LowerArm_Right_LOD0
+  - first:
+      137: 13700318
+    second: Robot_A_LowerArm_Right_LOD01
+  - first:
+      137: 13700320
+    second: Robot_A_LowerArm_Right_LOD02
+  - first:
+      137: 13700322
+    second: Robot_A_LowerArm_Right_LOD03
+  - first:
+      205: 20500000
+    second: //RootNode
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  - first:
+      41386430: 2186277476908879414
+    second: ImportLogs
+  - first:
+      41386430: 2186277476908879416
+    second: ImportLogs
+  - first:
+      41386430: 2186277476908879418
+    second: ImportLogs
+  - first:
+      41386430: 2186277476908879420
+    second: ImportLogs
+  - first:
+      41386430: 2186277476908879422
+    second: ImportLogs
+  - first:
+      41386430: 2186277476908879424
+    second: ImportLogs
+  - first:
+      41386430: 2186277476908879426
+    second: ImportLogs
+  - first:
+      41386430: 2186277476908879428
+    second: ImportLogs
+  - first:
+      41386430: 2186277476908879430
+    second: ImportLogs
+  - first:
+      41386430: 2186277476908879432
+    second: ImportLogs
+  - first:
+      41386430: 2186277476908879434
+    second: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Robot_A_Body_Rubber_Mat
+    second: {fileID: 2100000, guid: cb03f55862e27d74781caf4c359a702b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Robot_A_Head_Mat
+    second: {fileID: 2100000, guid: 78373890d8c6be84c994a004f6526cd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Robot_A_Head_Rubber_Mat
+    second: {fileID: 2100000, guid: bf4d2432b42ffec48ba014dc95200248, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Robot_A_Robot_A_Body_Mat
+    second: {fileID: 2100000, guid: dcf76ea26c248864bb6f00a1c2290110, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Robot_A_Robot_A_Eye_Mat
+    second: {fileID: 2100000, guid: e55de6c54930128479cf3e6a8cf4c500, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_UpperLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_UpperLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_LowerLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_LowerLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Shoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Shoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_LowerArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_LowerArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Toes
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Toes
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_ThumbProximal
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_ThumbIntermediate
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_ThumbDistal
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_IndexProximal
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_IndexIntermediate
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_IndexDistal
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_MiddleProximal
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_MiddleIntermediate
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_MiddleDistal
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_RingProximal
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_RingIntermediate
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_RingDistal
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperChest
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_ThumbProximal
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_ThumbIntermediate
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_ThumbDistal
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_RingProximal
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_RingIntermediate
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_RingDistal
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_MiddleProximal
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_MiddleIntermediate
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_MiddleDistal
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_IndexProximal
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_IndexIntermediate
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_IndexDistal
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Robot_A_3P(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Geometry
+      parentName: Robot_A_3P(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robot_A_Body
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robot_A_Left_Arm
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton
+      parentName: Robot_A_3P(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Camera
+      parentName: Skeleton
+      position: {x: -0, y: 0, z: 8.51272e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hips
+      parentName: Skeleton
+      position: {x: 0, y: 1.129366, z: 0.00023833466}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hips_Offset
+      parentName: Hips
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_UpperLeg
+      parentName: Hips
+      position: {x: -0.21857414, y: -0.0068612923, z: 0}
+      rotation: {x: 1, y: 0.0000009555866, z: 2.6573177e-23, w: 2.7809786e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_LowerLeg
+      parentName: Left_UpperLeg
+      position: {x: -0.00000018614897, y: 0.4666598, z: -3.4593346e-12}
+      rotation: {x: -4.721404e-12, y: -0.0000028486613, z: -0.000001657409, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Foot
+      parentName: Left_LowerLeg
+      position: {x: 0.000000010912577, y: 0.45011988, z: -0.0000000017987557}
+      rotation: {x: -3.0579849e-12, y: -0.00000007676704, z: -0.0000005295768, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Heel
+      parentName: Left_Foot
+      position: {x: 0.0000000035130012, y: 0.20412233, z: 0.1645286}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Toes
+      parentName: Left_Foot
+      position: {x: -3.5527126e-17, y: 0.055854883, z: -0.20679079}
+      rotation: {x: -0.7071067, y: -0.0000012832649, z: 0.0000012832647, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Foot_Inner
+      parentName: Left_Toes
+      position: {x: 0.14072473, y: 0.0016716408, z: 0.14865091}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Foot_Outer
+      parentName: Left_Toes
+      position: {x: -0.13489008, y: 0.0022171813, z: 0.14865091}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_ToesEnd
+      parentName: Left_Toes
+      position: {x: -0.0000034686757, y: 0.12464869, z: 0.14865091}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_UpperLeg
+      parentName: Hips
+      position: {x: 0.21857393, y: -0.006856404, z: 2.585565e-10}
+      rotation: {x: 1.6479004e-18, y: 9.677073e-15, z: 2.0064726e-11, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_LowerLeg
+      parentName: Right_UpperLeg
+      position: {x: -0.0000009999998, y: -0.46666494, z: 0.0000008887033}
+      rotation: {x: 6.0076943e-14, y: -1.1580529e-22, z: 8.51996e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Foot
+      parentName: Right_LowerLeg
+      position: {x: -0.000002189708, y: -0.4501199, z: -0.00000090881355}
+      rotation: {x: 4.0446816e-14, y: -0.00000021432038, z: 0.00000017762339, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Heel
+      parentName: Right_Foot
+      position: {x: -0.00000030453324, y: -0.20412345, z: -0.16452725}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Toes
+      parentName: Right_Foot
+      position: {x: -0.0000008706794, y: -0.055852856, z: 0.20679161}
+      rotation: {x: -0.7071067, y: 0.0000006454539, z: -0.00000064545384, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Foot_Inner
+      parentName: Right_Toes
+      position: {x: -0.14072533, y: -0.001672218, z: -0.14865081}
+      rotation: {x: 0.7071067, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Foot_Outer
+      parentName: Right_Toes
+      position: {x: 0.13488914, y: -0.0022189852, z: -0.14865132}
+      rotation: {x: 0.7071067, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_ToesEnd
+      parentName: Right_Toes
+      position: {x: 0.00000225605, y: -0.124649085, z: -0.14865007}
+      rotation: {x: 0.7071067, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine
+      parentName: Hips
+      position: {x: 0, y: 0.15712158, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Chest
+      parentName: Spine
+      position: {x: 0, y: 0.123995066, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperChest
+      parentName: Chest
+      position: {x: 0, y: 0.123995066, z: 0.0010370604}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Enging_Block
+      parentName: UpperChest
+      position: {x: 0, y: 0.26114348, z: -0.17589706}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Engine_Fan_Low
+      parentName: Enging_Block
+      position: {x: -0.12192881, y: -0.11861524, z: -0.22473107}
+      rotation: {x: -0.6527058, y: 0.27222097, z: 0.2719838, w: 0.6526069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Engine_Fan_Mid
+      parentName: Enging_Block
+      position: {x: -0.121928744, y: -0.021229109, z: -0.22473107}
+      rotation: {x: -0.6527058, y: 0.27222097, z: 0.2719838, w: 0.6526069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Engine_Fan_Up
+      parentName: Enging_Block
+      position: {x: -0.12192865, y: 0.08435771, z: -0.22473085}
+      rotation: {x: -0.6527058, y: 0.27222097, z: 0.2719838, w: 0.6526069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Engine_Pipe_Exhaust
+      parentName: Enging_Block
+      position: {x: -0.13658087, y: 0.1390773, z: -0.040405985}
+      rotation: {x: -0.5157278, y: -0.21404079, z: 0.7662162, w: 0.3180001}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Engine_Pipe_Exhaust_End
+      parentName: Left_Engine_Pipe_Exhaust
+      position: {x: 0.26412147, y: 0.000001623513, z: 0.00000070819215}
+      rotation: {x: -0.31800008, y: 0.7662163, z: 0.2140408, w: 0.5157278}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Engine_Fan_Low
+      parentName: Enging_Block
+      position: {x: 0.11916897, y: -0.118615545, z: -0.22477025}
+      rotation: {x: -0.654022, y: -0.2690434, z: -0.26914114, w: 0.65378433}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Engine_Fan_Mid
+      parentName: Enging_Block
+      position: {x: 0.11916904, y: -0.021229262, z: -0.2247703}
+      rotation: {x: -0.654022, y: -0.2690434, z: -0.26914114, w: 0.65378433}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Engine_Fan_Up
+      parentName: Enging_Block
+      position: {x: 0.11913005, y: 0.08435786, z: -0.22473115}
+      rotation: {x: -0.654022, y: -0.2690434, z: -0.26914114, w: 0.65378433}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Engine_Pipe_Exhaust
+      parentName: Enging_Block
+      position: {x: 0.13658099, y: 0.13907845, z: -0.0404063}
+      rotation: {x: 0.31800008, y: -0.7662163, z: -0.21404079, w: 0.5157278}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Engine_Pipe_Exhaust_End
+      parentName: Right_Engine_Pipe_Exhaust
+      position: {x: -0.26412275, y: 0, z: 1.4210849e-16}
+      rotation: {x: -0.31800008, y: 0.7662163, z: 0.2140408, w: 0.5157278}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Shoulder
+      parentName: UpperChest
+      position: {x: -0.25436115, y: 0.21834317, z: -0.034605987}
+      rotation: {x: 0, y: 0, z: 0.021814883, w: 0.99976206}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_UpperArm
+      parentName: Left_Shoulder
+      position: {x: -0.17401305, y: 0.0075975736, z: -0.000000009536739}
+      rotation: {x: -2.7755576e-17, y: -1.3877788e-17, z: 0.69151306, w: 0.72236395}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_LowerArm
+      parentName: Left_UpperArm
+      position: {x: -0.00000034334604, y: 0.37655985, z: -2.1316275e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Hand
+      parentName: Left_LowerArm
+      position: {x: 0, y: 0.2858999, z: 0}
+      rotation: {x: -0, y: 0, z: -1.3877788e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Hand_Attach
+      parentName: Left_Hand
+      position: {x: -0.049999986, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Offhand_IK
+      parentName: Left_Hand_Attach
+      position: {x: 2.181997, y: 0.050001685, z: 0.0000017545786}
+      rotation: {x: 0.7071068, y: -0.7071067, z: 0.000000004800927, w: -0.0000000048009263}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Hand_End
+      parentName: Left_Hand
+      position: {x: -4.9732293e-12, y: 0.09999997, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Hand_Plate
+      parentName: Left_Hand
+      position: {x: 0.0641365, y: 0.1892927, z: -0.005794156}
+      rotation: {x: -0.017451743, y: 0.008725205, z: -0.000152299, w: 0.9998096}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_IndexProximal
+      parentName: Left_Hand
+      position: {x: 0.0027569009, y: 0.18053561, z: 0.08889178}
+      rotation: {x: 6.938893e-17, y: 0.7071067, z: 2.7755574e-17, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_IndexIntermediate
+      parentName: Left_IndexProximal
+      position: {x: 6.394882e-16, y: 0.047276538, z: 5.6843396e-16}
+      rotation: {x: -5.6378513e-18, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_IndexDistal
+      parentName: Left_IndexIntermediate
+      position: {x: 0.0000000045184545, y: 0.06544338, z: -2.8421698e-16}
+      rotation: {x: 1.1275703e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_IndexDistalEnd
+      parentName: Left_IndexDistal
+      position: {x: 0.0000000032224736, y: 0.067598484, z: 8.6862567e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_MiddleProximal
+      parentName: Left_Hand
+      position: {x: 0.011213372, y: 0.19766149, z: 0.00074582396}
+      rotation: {x: -5.1174336e-17, y: 0.7071067, z: -1.3877788e-17, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_MiddleIntermediate
+      parentName: Left_MiddleProximal
+      position: {x: 5.6843396e-16, y: 0.041957624, z: -0.0010456117}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_MiddleDistal
+      parentName: Left_MiddleIntermediate
+      position: {x: -0.000000006898974, y: 0.078677356, z: -0.00037144814}
+      rotation: {x: -2.0816682e-17, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_MiddleDistalEnd
+      parentName: Left_MiddleDistal
+      position: {x: -0.000000007466737, y: 0.08216052, z: 0.0000000010981037}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_RingProximal
+      parentName: Left_Hand
+      position: {x: 0.0041438364, y: 0.1771716, z: -0.08481853}
+      rotation: {x: -3.3350054e-16, y: 0.7071067, z: -2.7755566e-17, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_RingIntermediate
+      parentName: Left_RingProximal
+      position: {x: 4.263255e-16, y: 0.04936249, z: -2.8421698e-16}
+      rotation: {x: 9.020562e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_RingDistal
+      parentName: Left_RingIntermediate
+      position: {x: -2.8421698e-16, y: 0.06553042, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_RingDistalEnd
+      parentName: Left_RingDistal
+      position: {x: 0.00000001534856, y: 0.07110997, z: -0.00000006447773}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_ThumbProximal
+      parentName: Left_Hand
+      position: {x: -0.03658532, y: 0.07654072, z: 0.10135885}
+      rotation: {x: 0.35355338, y: 0.35355338, z: 0.1464466, w: 0.8535534}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_ThumbIntermediate
+      parentName: Left_ThumbProximal
+      position: {x: 0, y: 0.052201588, z: 5.6843396e-16}
+      rotation: {x: 5.6378513e-18, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_ThumbDistal
+      parentName: Left_ThumbIntermediate
+      position: {x: 3.5527124e-16, y: 0.06591005, z: -1.1368679e-15}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_ThumbDistalEnd
+      parentName: Left_ThumbDistal
+      position: {x: -6.394882e-16, y: 0.06849059, z: 5.6843396e-16}
+      rotation: {x: -0.45086452, y: 0.45086455, z: -0.5447211, w: 0.5447212}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_LowerArm_Attach
+      parentName: Left_LowerArm
+      position: {x: 0.00000006047403, y: -0.000000026063088, z: 0.000000037886103}
+      rotation: {x: -4.3297796e-17, y: 0.7071067, z: 0.7071068, w: -4.3297806e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_UpperArm_Shield
+      parentName: Left_UpperArm
+      position: {x: 0.16697347, y: -0.0008015387, z: 0.0017682348}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_UpperArm_Shoulder_Plate
+      parentName: Left_UpperArm
+      position: {x: -2.8421706e-16, y: -0.18827999, z: -4.263256e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Neck
+      parentName: UpperChest
+      position: {x: 0, y: 0.31186458, z: -0.045722224}
+      rotation: {x: 0.10886688, y: 0, z: 0, w: 0.99405634}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: Neck
+      position: {x: -3.7747563e-17, y: 0.108984716, z: -4.9737965e-16}
+      rotation: {x: -0.10886688, y: 0, z: -0, w: 0.99405634}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_End
+      parentName: Head
+      position: {x: 1.4848147e-12, y: 0.12602282, z: -7.1054246e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jaw
+      parentName: Head
+      position: {x: 0, y: 0.17710015, z: 7.105424e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Neck_Twist_A
+      parentName: Neck
+      position: {x: 0, y: 0.05448997, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Shoulder
+      parentName: UpperChest
+      position: {x: 0.2543609, y: 0.21834178, z: -0.034605984}
+      rotation: {x: 0.99976206, y: -0.021814885, z: 1.3357762e-18, w: -6.121778e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_UpperArm
+      parentName: Right_Shoulder
+      position: {x: 0.17401317, y: -0.007597579, z: 8.8817815e-18}
+      rotation: {x: 1.3877788e-17, y: 5.7255115e-25, z: 0.69151306, w: 0.72236395}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_LowerArm
+      parentName: Right_UpperArm
+      position: {x: 0.00000011129974, y: -0.37655917, z: -0.0000005297813}
+      rotation: {x: 2.7755576e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Hand
+      parentName: Right_LowerArm
+      position: {x: -0.0000024162216, y: -0.2858982, z: -0.0000012148497}
+      rotation: {x: 0, y: 1.7618285e-18, z: 3.3881318e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Hand_Attach
+      parentName: Right_Hand
+      position: {x: 0.049999144, y: 0.000000393543, z: -0.000001687093}
+      rotation: {x: -0.70710665, y: 0.7071069, z: 4.3297806e-17, w: -4.3297796e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Offhand_IK
+      parentName: Right_Hand_Attach
+      position: {x: 0.000004844308, y: -0.04999999, z: 0.0000054058187}
+      rotation: {x: -0.7071067, y: 0.7071068, z: -0.000000014901204, w: 6.280369e-16}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Hand_End
+      parentName: Right_Hand
+      position: {x: 0.0000011055284, y: -0.100001, z: -0.00000012391278}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Hand_Plate
+      parentName: Right_Hand
+      position: {x: -0.06413356, y: -0.18929724, z: 0.0057982556}
+      rotation: {x: -0.017451743, y: 0.008725205, z: -0.000152299, w: 0.9998096}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_IndexProximal
+      parentName: Right_Hand
+      position: {x: -0.0027568077, y: -0.1805355, z: -0.08889237}
+      rotation: {x: -2.0816683e-16, y: 0.7071067, z: 2.2898353e-16, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_IndexIntermediate
+      parentName: Right_IndexProximal
+      position: {x: -0.0000031481288, y: -0.0472794, z: 0.000002688724}
+      rotation: {x: 8.6736174e-19, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_IndexDistal
+      parentName: Right_IndexIntermediate
+      position: {x: -0.00000008319317, y: -0.06544361, z: 0.00000021674096}
+      rotation: {x: 8.6736174e-19, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_IndexDistalEnd
+      parentName: Right_IndexDistal
+      position: {x: 0.000002984235, y: -0.06759566, z: -0.0000032923517}
+      rotation: {x: 0.000000010536712, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_MiddleProximal
+      parentName: Right_Hand
+      position: {x: -0.011211416, y: -0.19766401, z: -0.0007441173}
+      rotation: {x: 2.3939184e-16, y: 0.7071067, z: -2.4980018e-16, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_MiddleIntermediate
+      parentName: Right_MiddleProximal
+      position: {x: 0.00000075279956, y: -0.041956637, z: 0.0010448145}
+      rotation: {x: -3.469447e-18, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_MiddleDistal
+      parentName: Right_MiddleIntermediate
+      position: {x: -0.000002420764, y: -0.07867981, z: 0.00037241582}
+      rotation: {x: -6.938894e-18, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_MiddleDistalEnd
+      parentName: Right_MiddleDistal
+      position: {x: 0.000001454601, y: -0.08215902, z: -0.00000012665504}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_RingProximal
+      parentName: Right_Hand
+      position: {x: -0.004144807, y: -0.17717075, z: 0.08481614}
+      rotation: {x: -5.8546917e-18, y: 0.7071067, z: 2.7755574e-17, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_RingIntermediate
+      parentName: Right_RingProximal
+      position: {x: -0.0000026105756, y: -0.049366158, z: 0.0000012965463}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_RingDistal
+      parentName: Right_RingIntermediate
+      position: {x: -0.000001262137, y: -0.06553177, z: -0.00000012420418}
+      rotation: {x: -1.7347235e-18, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_RingDistalEnd
+      parentName: Right_RingDistal
+      position: {x: -0.0000007740667, y: -0.07111132, z: 0.0000010939968}
+      rotation: {x: 0.000000012904784, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_ThumbProximal
+      parentName: Right_Hand
+      position: {x: 0.03658541, y: -0.07653969, z: -0.101360336}
+      rotation: {x: 0.35355338, y: 0.35355338, z: 0.1464466, w: 0.8535534}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_ThumbIntermediate
+      parentName: Right_ThumbProximal
+      position: {x: -0.00000040798957, y: -0.052201316, z: 0.00000018663512}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_ThumbDistal
+      parentName: Right_ThumbIntermediate
+      position: {x: -0.00000055297886, y: -0.06591075, z: 0.00000088738017}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_ThumbDistalEnd
+      parentName: Right_ThumbDistal
+      position: {x: -0.0000011714465, y: -0.06849123, z: 0.0000058400415}
+      rotation: {x: -0.45086452, y: 0.45086455, z: -0.5447211, w: 0.5447212}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_LowerArm_Attach
+      parentName: Right_LowerArm
+      position: {x: 0, y: 2.1316276e-16, z: 0}
+      rotation: {x: 4.3297796e-17, y: -0.7071067, z: 0.7071068, w: -4.3297806e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_UpperArm_Shoulder_Plate
+      parentName: Right_UpperArm
+      position: {x: 8.526512e-16, y: 0.18827999, z: -2.131628e-16}
+      rotation: {x: 0.000000012904784, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperChest_Offset
+      parentName: UpperChest
+      position: {x: 0, y: 0.000000041083805, z: 7.440472e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Back_Chest_Plate
+      parentName: UpperChest_Offset
+      position: {x: 0, y: -0.045092337, z: -0.19509281}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Front_Chest_Plate
+      parentName: UpperChest_Offset
+      position: {x: 0, y: 0.07698567, z: 0.20613219}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Chest_Plate
+      parentName: UpperChest_Offset
+      position: {x: -0.2514197, y: 0.12530841, z: -0.043128993}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Tube_A_Mid
+      parentName: UpperChest_Offset
+      position: {x: -0.2184909, y: -0.16624847, z: -0.1898933}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Tube_B_Mid
+      parentName: UpperChest_Offset
+      position: {x: -0.2205599, y: -0.102768496, z: -0.21848729}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Tube_C_Mid
+      parentName: UpperChest_Offset
+      position: {x: -0.19089091, y: -0.19153847, z: -0.18203232}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Chest_Plate
+      parentName: UpperChest_Offset
+      position: {x: 0.25141987, y: 0.12531146, z: -0.043129027}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Tube_A_Mid
+      parentName: UpperChest_Offset
+      position: {x: 0.21849136, y: -0.16624387, z: -0.18989348}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Tube_B_Mid
+      parentName: UpperChest_Offset
+      position: {x: 0.2205604, y: -0.10276749, z: -0.2184874}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Tube_C_Mid
+      parentName: UpperChest_Offset
+      position: {x: 0.19089049, y: -0.19153738, z: -0.18203238}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Up_Chest_Plate
+      parentName: UpperChest_Offset
+      position: {x: 0, y: 0.36277023, z: 0.0037476895}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 1
+    foreArmTwist: 0
+    upperLegTwist: 1
+    legTwist: 0
+    armStretch: 0
+    legStretch: 0
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 9eab99d515c4f6b4d8f89e99fecfb0ac,d2052e9e148568d4abb9e247ebef7774
+  assetBundleName: 
+  assetBundleVariant: 
