@@ -1,108 +1,327 @@
 fileFormatVersion: 2
 guid: f3c18d3df6437d94c9debdb3837a4133
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: Terraformer_Sniper_A_Barrel_A
-    100004: Terraformer_Sniper_A_Container_A
-    100006: Terraformer_Sniper_A_Container_A_Glass_A
-    100008: Terraformer_Sniper_A_Container_A_Liquids_A
-    100010: Terraformer_Sniper_A_FlickSwitch_A
-    100012: Terraformer_Sniper_A_Front_Hinge_A
-    100014: Terraformer_Sniper_A_Glass_A
-    100016: Terraformer_Sniper_A_Liquids_A
-    100018: Terraformer_Sniper_A_Main
-    100020: Terraformer_Sniper_A_Main_Trigger
-    100022: Terraformer_Sniper_A_Reload_A
-    100024: Terraformer_Sniper_A_Scope_A
-    100026: Terraformer_Sniper_A_Sidedetail_A
-    100028: Terraformer_Sniper_A_Vent_A
-    100030: Terraformer_Sniper_A_Vent_B
-    100032: Terraformer_Sniper_A_Vent_C
-    100034: Terraformer_Sniper_A_Vent_D
-    100036: Terraformer_Sniper_A_Vent_E
-    100038: Terraformer_Sniper_A_Vent_F
-    400000: //RootNode
-    400002: Terraformer_Sniper_A_Barrel_A
-    400004: Terraformer_Sniper_A_Container_A
-    400006: Terraformer_Sniper_A_Container_A_Glass_A
-    400008: Terraformer_Sniper_A_Container_A_Liquids_A
-    400010: Terraformer_Sniper_A_FlickSwitch_A
-    400012: Terraformer_Sniper_A_Front_Hinge_A
-    400014: Terraformer_Sniper_A_Glass_A
-    400016: Terraformer_Sniper_A_Liquids_A
-    400018: Terraformer_Sniper_A_Main
-    400020: Terraformer_Sniper_A_Main_Trigger
-    400022: Terraformer_Sniper_A_Reload_A
-    400024: Terraformer_Sniper_A_Scope_A
-    400026: Terraformer_Sniper_A_Sidedetail_A
-    400028: Terraformer_Sniper_A_Vent_A
-    400030: Terraformer_Sniper_A_Vent_B
-    400032: Terraformer_Sniper_A_Vent_C
-    400034: Terraformer_Sniper_A_Vent_D
-    400036: Terraformer_Sniper_A_Vent_E
-    400038: Terraformer_Sniper_A_Vent_F
-    2300000: Terraformer_Sniper_A_Barrel_A
-    2300002: Terraformer_Sniper_A_Container_A
-    2300004: Terraformer_Sniper_A_Container_A_Glass_A
-    2300006: Terraformer_Sniper_A_Container_A_Liquids_A
-    2300008: Terraformer_Sniper_A_FlickSwitch_A
-    2300010: Terraformer_Sniper_A_Front_Hinge_A
-    2300012: Terraformer_Sniper_A_Glass_A
-    2300014: Terraformer_Sniper_A_Liquids_A
-    2300016: Terraformer_Sniper_A_Main
-    2300018: Terraformer_Sniper_A_Main_Trigger
-    2300020: Terraformer_Sniper_A_Reload_A
-    2300022: Terraformer_Sniper_A_Scope_A
-    2300024: Terraformer_Sniper_A_Sidedetail_A
-    2300026: Terraformer_Sniper_A_Vent_A
-    2300028: Terraformer_Sniper_A_Vent_B
-    2300030: Terraformer_Sniper_A_Vent_C
-    2300032: Terraformer_Sniper_A_Vent_D
-    2300034: Terraformer_Sniper_A_Vent_E
-    2300036: Terraformer_Sniper_A_Vent_F
-    3300000: Terraformer_Sniper_A_Barrel_A
-    3300002: Terraformer_Sniper_A_Container_A
-    3300004: Terraformer_Sniper_A_Container_A_Glass_A
-    3300006: Terraformer_Sniper_A_Container_A_Liquids_A
-    3300008: Terraformer_Sniper_A_FlickSwitch_A
-    3300010: Terraformer_Sniper_A_Front_Hinge_A
-    3300012: Terraformer_Sniper_A_Glass_A
-    3300014: Terraformer_Sniper_A_Liquids_A
-    3300016: Terraformer_Sniper_A_Main
-    3300018: Terraformer_Sniper_A_Main_Trigger
-    3300020: Terraformer_Sniper_A_Reload_A
-    3300022: Terraformer_Sniper_A_Scope_A
-    3300024: Terraformer_Sniper_A_Sidedetail_A
-    3300026: Terraformer_Sniper_A_Vent_A
-    3300028: Terraformer_Sniper_A_Vent_B
-    3300030: Terraformer_Sniper_A_Vent_C
-    3300032: Terraformer_Sniper_A_Vent_D
-    3300034: Terraformer_Sniper_A_Vent_E
-    3300036: Terraformer_Sniper_A_Vent_F
-    4300000: Terraformer_Sniper_A_Container_A_Liquids_A
-    4300002: Terraformer_Sniper_A_Container_A
-    4300004: Terraformer_Sniper_A_Liquids_A
-    4300006: Terraformer_Sniper_A_FlickSwitch_A
-    4300008: Terraformer_Sniper_A_Front_Hinge_A
-    4300010: Terraformer_Sniper_A_Container_A_Glass_A
-    4300012: Terraformer_Sniper_A_Glass_A
-    4300014: Terraformer_Sniper_A_Main
-    4300016: Terraformer_Sniper_A_Reload_A
-    4300018: Terraformer_Sniper_A_Sidedetail_A
-    4300020: Terraformer_Sniper_A_Main_Trigger
-    4300022: Terraformer_Sniper_A_Vent_A
-    4300024: Terraformer_Sniper_A_Vent_D
-    4300026: Terraformer_Sniper_A_Vent_C
-    4300028: Terraformer_Sniper_A_Vent_B
-    4300030: Terraformer_Sniper_A_Vent_F
-    4300032: Terraformer_Sniper_A_Vent_E
-    4300034: Terraformer_Sniper_A_Barrel_A
-    4300036: Terraformer_Sniper_A_Scope_A
-  externalObjects: {}
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Terraformer_Sniper_A_Barrel_A
+  - first:
+      1: 100004
+    second: Terraformer_Sniper_A_Container_A
+  - first:
+      1: 100006
+    second: Terraformer_Sniper_A_Container_A_Glass_A
+  - first:
+      1: 100008
+    second: Terraformer_Sniper_A_Container_A_Liquids_A
+  - first:
+      1: 100010
+    second: Terraformer_Sniper_A_FlickSwitch_A
+  - first:
+      1: 100012
+    second: Terraformer_Sniper_A_Front_Hinge_A
+  - first:
+      1: 100014
+    second: Terraformer_Sniper_A_Glass_A
+  - first:
+      1: 100016
+    second: Terraformer_Sniper_A_Liquids_A
+  - first:
+      1: 100018
+    second: Terraformer_Sniper_A_Main
+  - first:
+      1: 100020
+    second: Terraformer_Sniper_A_Main_Trigger
+  - first:
+      1: 100022
+    second: Terraformer_Sniper_A_Reload_A
+  - first:
+      1: 100024
+    second: Terraformer_Sniper_A_Scope_A
+  - first:
+      1: 100026
+    second: Terraformer_Sniper_A_Sidedetail_A
+  - first:
+      1: 100028
+    second: Terraformer_Sniper_A_Vent_A
+  - first:
+      1: 100030
+    second: Terraformer_Sniper_A_Vent_B
+  - first:
+      1: 100032
+    second: Terraformer_Sniper_A_Vent_C
+  - first:
+      1: 100034
+    second: Terraformer_Sniper_A_Vent_D
+  - first:
+      1: 100036
+    second: Terraformer_Sniper_A_Vent_E
+  - first:
+      1: 100038
+    second: Terraformer_Sniper_A_Vent_F
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Terraformer_Sniper_A_Barrel_A
+  - first:
+      4: 400004
+    second: Terraformer_Sniper_A_Container_A
+  - first:
+      4: 400006
+    second: Terraformer_Sniper_A_Container_A_Glass_A
+  - first:
+      4: 400008
+    second: Terraformer_Sniper_A_Container_A_Liquids_A
+  - first:
+      4: 400010
+    second: Terraformer_Sniper_A_FlickSwitch_A
+  - first:
+      4: 400012
+    second: Terraformer_Sniper_A_Front_Hinge_A
+  - first:
+      4: 400014
+    second: Terraformer_Sniper_A_Glass_A
+  - first:
+      4: 400016
+    second: Terraformer_Sniper_A_Liquids_A
+  - first:
+      4: 400018
+    second: Terraformer_Sniper_A_Main
+  - first:
+      4: 400020
+    second: Terraformer_Sniper_A_Main_Trigger
+  - first:
+      4: 400022
+    second: Terraformer_Sniper_A_Reload_A
+  - first:
+      4: 400024
+    second: Terraformer_Sniper_A_Scope_A
+  - first:
+      4: 400026
+    second: Terraformer_Sniper_A_Sidedetail_A
+  - first:
+      4: 400028
+    second: Terraformer_Sniper_A_Vent_A
+  - first:
+      4: 400030
+    second: Terraformer_Sniper_A_Vent_B
+  - first:
+      4: 400032
+    second: Terraformer_Sniper_A_Vent_C
+  - first:
+      4: 400034
+    second: Terraformer_Sniper_A_Vent_D
+  - first:
+      4: 400036
+    second: Terraformer_Sniper_A_Vent_E
+  - first:
+      4: 400038
+    second: Terraformer_Sniper_A_Vent_F
+  - first:
+      23: 2300000
+    second: Terraformer_Sniper_A_Barrel_A
+  - first:
+      23: 2300002
+    second: Terraformer_Sniper_A_Container_A
+  - first:
+      23: 2300004
+    second: Terraformer_Sniper_A_Container_A_Glass_A
+  - first:
+      23: 2300006
+    second: Terraformer_Sniper_A_Container_A_Liquids_A
+  - first:
+      23: 2300008
+    second: Terraformer_Sniper_A_FlickSwitch_A
+  - first:
+      23: 2300010
+    second: Terraformer_Sniper_A_Front_Hinge_A
+  - first:
+      23: 2300012
+    second: Terraformer_Sniper_A_Glass_A
+  - first:
+      23: 2300014
+    second: Terraformer_Sniper_A_Liquids_A
+  - first:
+      23: 2300016
+    second: Terraformer_Sniper_A_Main
+  - first:
+      23: 2300018
+    second: Terraformer_Sniper_A_Main_Trigger
+  - first:
+      23: 2300020
+    second: Terraformer_Sniper_A_Reload_A
+  - first:
+      23: 2300022
+    second: Terraformer_Sniper_A_Scope_A
+  - first:
+      23: 2300024
+    second: Terraformer_Sniper_A_Sidedetail_A
+  - first:
+      23: 2300026
+    second: Terraformer_Sniper_A_Vent_A
+  - first:
+      23: 2300028
+    second: Terraformer_Sniper_A_Vent_B
+  - first:
+      23: 2300030
+    second: Terraformer_Sniper_A_Vent_C
+  - first:
+      23: 2300032
+    second: Terraformer_Sniper_A_Vent_D
+  - first:
+      23: 2300034
+    second: Terraformer_Sniper_A_Vent_E
+  - first:
+      23: 2300036
+    second: Terraformer_Sniper_A_Vent_F
+  - first:
+      33: 3300000
+    second: Terraformer_Sniper_A_Barrel_A
+  - first:
+      33: 3300002
+    second: Terraformer_Sniper_A_Container_A
+  - first:
+      33: 3300004
+    second: Terraformer_Sniper_A_Container_A_Glass_A
+  - first:
+      33: 3300006
+    second: Terraformer_Sniper_A_Container_A_Liquids_A
+  - first:
+      33: 3300008
+    second: Terraformer_Sniper_A_FlickSwitch_A
+  - first:
+      33: 3300010
+    second: Terraformer_Sniper_A_Front_Hinge_A
+  - first:
+      33: 3300012
+    second: Terraformer_Sniper_A_Glass_A
+  - first:
+      33: 3300014
+    second: Terraformer_Sniper_A_Liquids_A
+  - first:
+      33: 3300016
+    second: Terraformer_Sniper_A_Main
+  - first:
+      33: 3300018
+    second: Terraformer_Sniper_A_Main_Trigger
+  - first:
+      33: 3300020
+    second: Terraformer_Sniper_A_Reload_A
+  - first:
+      33: 3300022
+    second: Terraformer_Sniper_A_Scope_A
+  - first:
+      33: 3300024
+    second: Terraformer_Sniper_A_Sidedetail_A
+  - first:
+      33: 3300026
+    second: Terraformer_Sniper_A_Vent_A
+  - first:
+      33: 3300028
+    second: Terraformer_Sniper_A_Vent_B
+  - first:
+      33: 3300030
+    second: Terraformer_Sniper_A_Vent_C
+  - first:
+      33: 3300032
+    second: Terraformer_Sniper_A_Vent_D
+  - first:
+      33: 3300034
+    second: Terraformer_Sniper_A_Vent_E
+  - first:
+      33: 3300036
+    second: Terraformer_Sniper_A_Vent_F
+  - first:
+      43: 4300000
+    second: Terraformer_Sniper_A_Container_A_Liquids_A
+  - first:
+      43: 4300002
+    second: Terraformer_Sniper_A_Container_A
+  - first:
+      43: 4300004
+    second: Terraformer_Sniper_A_Liquids_A
+  - first:
+      43: 4300006
+    second: Terraformer_Sniper_A_FlickSwitch_A
+  - first:
+      43: 4300008
+    second: Terraformer_Sniper_A_Front_Hinge_A
+  - first:
+      43: 4300010
+    second: Terraformer_Sniper_A_Container_A_Glass_A
+  - first:
+      43: 4300012
+    second: Terraformer_Sniper_A_Glass_A
+  - first:
+      43: 4300014
+    second: Terraformer_Sniper_A_Main
+  - first:
+      43: 4300016
+    second: Terraformer_Sniper_A_Reload_A
+  - first:
+      43: 4300018
+    second: Terraformer_Sniper_A_Sidedetail_A
+  - first:
+      43: 4300020
+    second: Terraformer_Sniper_A_Main_Trigger
+  - first:
+      43: 4300022
+    second: Terraformer_Sniper_A_Vent_A
+  - first:
+      43: 4300024
+    second: Terraformer_Sniper_A_Vent_D
+  - first:
+      43: 4300026
+    second: Terraformer_Sniper_A_Vent_C
+  - first:
+      43: 4300028
+    second: Terraformer_Sniper_A_Vent_B
+  - first:
+      43: 4300030
+    second: Terraformer_Sniper_A_Vent_F
+  - first:
+      43: 4300032
+    second: Terraformer_Sniper_A_Vent_E
+  - first:
+      43: 4300034
+    second: Terraformer_Sniper_A_Barrel_A
+  - first:
+      43: 4300036
+    second: Terraformer_Sniper_A_Scope_A
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 7bee533446255f348889ede644967e46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terraformer_Weapon_A
+    second: {fileID: 2100000, guid: 3e8ab9a05ef645545af353e3e386d024, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terraformer_Weapon_A_Container_A
+    second: {fileID: 2100000, guid: 0c09a77a1923f6a42beb0f4a2490eff3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terraformer_Weapon_A_Glass_A
+    second: {fileID: 2100000, guid: a97106afdb17fe2438c661152ef4f1cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terraformer_Weapon_A_Liquids_A
+    second: {fileID: 2100000, guid: 1b8b220e57b11434cb58ab61b0bdecf1, type: 2}
   materials:
-    importMaterials: 0
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -111,6 +330,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -135,25 +355,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -162,10 +393,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -175,13 +406,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
